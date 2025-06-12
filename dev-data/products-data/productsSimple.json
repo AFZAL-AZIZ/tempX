@@ -1,0 +1,7002 @@
+[
+    {
+        "name": "Oatmeal Raisin Cookies",
+        "price": 208,
+        "rating": 1.5,
+        "discount": 4,
+        "category": "Food - Baked Goods"
+    },
+    {
+        "name": "Chicken Breasts",
+        "price": 346,
+        "rating": 2.1,
+        "discount": 37,
+        "category": "Food - Meat"
+    },
+    {
+        "name": "Garden Vegetable Soup",
+        "price": 255,
+        "rating": 3.5,
+        "discount": 31,
+        "category": "Food - Canned Goods"
+    },
+    {
+        "name": "Vanilla Pudding Mix",
+        "price": 274,
+        "rating": 4.7,
+        "discount": 14,
+        "category": "Food - Baking"
+    },
+    {
+        "name": "Air Mattress",
+        "price": 490,
+        "rating": 5.0,
+        "discount": 25,
+        "category": "Outdoor"
+    },
+    {
+        "name": "Almond Coconut Granola",
+        "price": 266,
+        "rating": null,
+        "discount": 30,
+        "category": "Food - Breakfast Foods"
+    },
+    {
+        "name": "Mashed Sweet Potatoes",
+        "price": 118,
+        "rating": 1.7,
+        "discount": 16,
+        "category": "Food - Sides"
+    },
+    {
+        "name": "Electric Air Pump",
+        "price": 82,
+        "rating": 3.7,
+        "discount": 9,
+        "category": "Outdoor"
+    },
+    {
+        "name": "Beet Salad",
+        "price": 470,
+        "rating": 4.7,
+        "discount": 6,
+        "category": "Food - Prepared Foods"
+    },
+    {
+        "name": "Trainers with Mesh Inserts",
+        "price": 316,
+        "rating": 3.9,
+        "discount": 8,
+        "category": "Clothing - Footwear"
+    },
+    {
+        "name": "Hiking Boots",
+        "price": 219,
+        "rating": 2.4,
+        "discount": 21,
+        "category": "Footwear"
+    },
+    {
+        "name": "Organic Almonds",
+        "price": 124,
+        "rating": 5.0,
+        "discount": 34,
+        "category": "Food - Nuts"
+    },
+    {
+        "name": "Mango Chili Salsa",
+        "price": 257,
+        "rating": 2.8,
+        "discount": 12,
+        "category": "Food - Condiments"
+    },
+    {
+        "name": "Organic Blueberries",
+        "price": 348,
+        "rating": null,
+        "discount": 6,
+        "category": "Food - Fruits"
+    },
+    {
+        "name": "Crispy Onion Rings",
+        "price": 346,
+        "rating": 4.1,
+        "discount": 25,
+        "category": "Food - Frozen Foods"
+    },
+    {
+        "name": "Sculpting Kit",
+        "price": 131,
+        "rating": 3.3,
+        "discount": 38,
+        "category": "Art Supplies"
+    },
+    {
+        "name": "Glass Water Bottle",
+        "price": 334,
+        "rating": 1.7,
+        "discount": 19,
+        "category": "Fitness"
+    },
+    {
+        "name": "Smartphone Photography Tripod",
+        "price": 149,
+        "rating": 3.4,
+        "discount": 23,
+        "category": "Electronics"
+    },
+    {
+        "name": "Cheddar & Bacon Potato Skins",
+        "price": 256,
+        "rating": 4.2,
+        "discount": 17,
+        "category": "Food - Frozen"
+    },
+    {
+        "name": "Coconut Cashew Yogurt",
+        "price": 283,
+        "rating": 4.6,
+        "discount": 6,
+        "category": "Food - Dairy Alternatives"
+    },
+    {
+        "name": "Chocolate Chip Pancake Mix",
+        "price": 264,
+        "rating": 3.6,
+        "discount": 35,
+        "category": "Food - Bakery"
+    },
+    {
+        "name": "Spinach Pizza Rolls",
+        "price": 305,
+        "rating": 5.0,
+        "discount": 27,
+        "category": "Food - Frozen Foods"
+    },
+    {
+        "name": "DIY Organic Gardening Kit",
+        "price": 77,
+        "rating": 4.6,
+        "discount": 11,
+        "category": "Garden"
+    },
+    {
+        "name": "Classic Vanilla Fudge",
+        "price": 247,
+        "rating": 4.7,
+        "discount": 0,
+        "category": "Food - Desserts"
+    },
+    {
+        "name": "Sports Windbreaker",
+        "price": 145,
+        "rating": 4.9,
+        "discount": 14,
+        "category": "Clothing - Outerwear"
+    },
+    {
+        "name": "Pepperoni Pizza Rolls",
+        "price": 338,
+        "rating": 1.8,
+        "discount": 19,
+        "category": "Food - Snacks"
+    },
+    {
+        "name": "Cinnamon Spiced Almonds",
+        "price": 431,
+        "rating": 1.9,
+        "discount": 21,
+        "category": "Food - Snacks"
+    },
+    {
+        "name": "Running Shorts",
+        "price": 124,
+        "rating": 2.5,
+        "discount": 11,
+        "category": "Clothing - Activewear"
+    },
+    {
+        "name": "Chili Con Carne Mix",
+        "price": 387,
+        "rating": 4.8,
+        "discount": 24,
+        "category": "Food - Spices & Seasonings"
+    },
+    {
+        "name": "Kitchen Scale",
+        "price": 483,
+        "rating": 4.2,
+        "discount": 24,
+        "category": "Kitchen"
+    },
+    {
+        "name": "Warm Wool Sweater",
+        "price": 222,
+        "rating": 3.7,
+        "discount": 22,
+        "category": "Clothing - Tops"
+    },
+    {
+        "name": "Smoked Gouda Cheese",
+        "price": 406,
+        "rating": 3.4,
+        "discount": 5,
+        "category": "Food - Dairy"
+    },
+    {
+        "name": "Crispy Rice Treats",
+        "price": 142,
+        "rating": 1.5,
+        "discount": 14,
+        "category": "Food - Snacks"
+    },
+    {
+        "name": "Avocados",
+        "price": 163,
+        "rating": 2.1,
+        "discount": 18,
+        "category": "Food - Produce"
+    },
+    {
+        "name": "Portable Water Filter",
+        "price": 217,
+        "rating": 3.0,
+        "discount": 1,
+        "category": "Outdoor"
+    },
+    {
+        "name": "Graphic Print Leggings",
+        "price": 487,
+        "rating": 3.4,
+        "discount": 16,
+        "category": "Clothing - Activewear"
+    },
+    {
+        "name": "Home Delivery Food Journal",
+        "price": 445,
+        "rating": 1.6,
+        "discount": 29,
+        "category": "Health"
+    },
+    {
+        "name": "Pressure Washer Accessories Kit",
+        "price": 78,
+        "rating": 2.7,
+        "discount": 30,
+        "category": "Home Improvement"
+    },
+    {
+        "name": "Organic Tomato Ketchup",
+        "price": 332,
+        "rating": 4.5,
+        "discount": 29,
+        "category": "Food - Condiments"
+    },
+    {
+        "name": "Colorful Post-It Notes Set",
+        "price": 158,
+        "rating": 4.1,
+        "discount": 18,
+        "category": "Office"
+    },
+    {
+        "name": "Frozen Acai Bowl",
+        "price": 199,
+        "rating": 3.0,
+        "discount": 29,
+        "category": "Food - Frozen Foods"
+    },
+    {
+        "name": "Electric Griddle",
+        "price": 262,
+        "rating": 1.0,
+        "discount": 14,
+        "category": "Kitchen"
+    },
+    {
+        "name": "Lemon Herb Chicken",
+        "price": 166,
+        "rating": 3.1,
+        "discount": 27,
+        "category": "Food - Meat"
+    },
+    {
+        "name": "Outdoor Adventure Kit",
+        "price": 307,
+        "rating": 2.2,
+        "discount": 25,
+        "category": "Outdoor"
+    },
+    {
+        "name": "Magnetic Chess Set",
+        "price": 157,
+        "rating": 3.3,
+        "discount": 18,
+        "category": "Toys"
+    },
+    {
+        "name": "Balsamic Glaze",
+        "price": 201,
+        "rating": 2.6,
+        "discount": 16,
+        "category": "Food - Condiments"
+    },
+    {
+        "name": "Coconut Cream Pie Mix",
+        "price": 216,
+        "rating": 2.6,
+        "discount": 5,
+        "category": "Food - Baking"
+    },
+    {
+        "name": "Printed Maxi Skirt",
+        "price": 397,
+        "rating": 3.0,
+        "discount": 26,
+        "category": "Clothing - Skirts"
+    },
+    {
+        "name": "Personalized Keychain",
+        "price": 484,
+        "rating": 2.1,
+        "discount": 39,
+        "category": "Accessories"
+    },
+    {
+        "name": "Tomatillo Salsa",
+        "price": 419,
+        "rating": 1.6,
+        "discount": 1,
+        "category": "Food - Condiments"
+    },
+    {
+        "name": "Electric Can Opener",
+        "price": 297,
+        "rating": null,
+        "discount": 35,
+        "category": "Kitchen"
+    },
+    {
+        "name": "Ceramic Cookware Set",
+        "price": 395,
+        "rating": 4.1,
+        "discount": 4,
+        "category": "Kitchen"
+    },
+    {
+        "name": "Cinnamon Roll Dough",
+        "price": 171,
+        "rating": 3.8,
+        "discount": 33,
+        "category": "Food - Bakery"
+    },
+    {
+        "name": "Ice Cube Tray with Lid",
+        "price": 372,
+        "rating": 3.4,
+        "discount": 14,
+        "category": "Kitchen"
+    },
+    {
+        "name": "Protein Bar Variety Pack",
+        "price": 419,
+        "rating": 1.2,
+        "discount": 7,
+        "category": "Food - Snacks"
+    },
+    {
+        "name": "Beef Stroganoff Meal Kit",
+        "price": 247,
+        "rating": 2.5,
+        "discount": 10,
+        "category": "Food - Frozen Meals"
+    },
+    {
+        "name": "Decorative Throw Pillows",
+        "price": 145,
+        "rating": 1.3,
+        "discount": 15,
+        "category": "Home"
+    },
+    {
+        "name": "Teriyaki Chicken Stir-Fry",
+        "price": 494,
+        "rating": 2.5,
+        "discount": 30,
+        "category": "Food - Frozen Foods"
+    },
+    {
+        "name": "Mayonnaise",
+        "price": 196,
+        "rating": 3.6,
+        "discount": 16,
+        "category": "Food - Condiments"
+    },
+    {
+        "name": "Smoked Paprika Chicken Thighs",
+        "price": 243,
+        "rating": 4.0,
+        "discount": 5,
+        "category": "Food - Meat"
+    },
+    {
+        "name": "Pet Grooming Gloves",
+        "price": 210,
+        "rating": 3.0,
+        "discount": 23,
+        "category": "Pets"
+    },
+    {
+        "name": "Caramel Apple Chips",
+        "price": 303,
+        "rating": 4.2,
+        "discount": 10,
+        "category": "Food - Snacks"
+    },
+    {
+        "name": "Almond Joy Protein Bars",
+        "price": 120,
+        "rating": 5.0,
+        "discount": 14,
+        "category": "Food - Snacks"
+    },
+    {
+        "name": "Pineapple Coconut Yogurt",
+        "price": 63,
+        "rating": 3.0,
+        "discount": 29,
+        "category": "Food - Dairy"
+    },
+    {
+        "name": "Potting Soil",
+        "price": 308,
+        "rating": 2.3,
+        "discount": 27,
+        "category": "Garden"
+    },
+    {
+        "name": "Home Brewing Starter Kit",
+        "price": 464,
+        "rating": 3.0,
+        "discount": 22,
+        "category": "Food"
+    },
+    {
+        "name": "Ultraviolet Phone Sanitizer",
+        "price": 423,
+        "rating": 4.4,
+        "discount": 33,
+        "category": "Health"
+    },
+    {
+        "name": "Pet Hair Remover",
+        "price": 433,
+        "rating": 3.2,
+        "discount": 21,
+        "category": "Pets"
+    },
+    {
+        "name": "Vacuum Sealer Machine",
+        "price": 121,
+        "rating": 1.0,
+        "discount": 1,
+        "category": "Kitchen"
+    },
+    {
+        "name": "Safety Goggles",
+        "price": 430,
+        "rating": 4.5,
+        "discount": 28,
+        "category": "Safety"
+    },
+    {
+        "name": "Artisan Cornbread Mix",
+        "price": 349,
+        "rating": 4.2,
+        "discount": 8,
+        "category": "Food - Baking"
+    },
+    {
+        "name": "Portable Solar Camp Shower",
+        "price": 464,
+        "rating": 2.7,
+        "discount": 40,
+        "category": "Outdoor"
+    },
+    {
+        "name": "Fishing Tackle Box",
+        "price": 127,
+        "rating": 2.2,
+        "discount": 39,
+        "category": "Outdoor"
+    },
+    {
+        "name": "Pet Grooming Gloves",
+        "price": 401,
+        "rating": null,
+        "discount": 1,
+        "category": "Pets"
+    },
+    {
+        "name": "Ethical Wool Scarf",
+        "price": 328,
+        "rating": 4.2,
+        "discount": 22,
+        "category": "Clothing - Accessories"
+    },
+    {
+        "name": "Pet Hair Removal Brush",
+        "price": 147,
+        "rating": 4.1,
+        "discount": 28,
+        "category": "Pets"
+    },
+    {
+        "name": "Cabbage",
+        "price": 370,
+        "rating": 2.8,
+        "discount": 40,
+        "category": "Food - Produce"
+    },
+    {
+        "name": "Buffalo Chicken Dip",
+        "price": 260,
+        "rating": 3.6,
+        "discount": 17,
+        "category": "Food - Dips"
+    },
+    {
+        "name": "LED Strip Light Kit",
+        "price": 343,
+        "rating": 2.6,
+        "discount": 5,
+        "category": "Home"
+    },
+    {
+        "name": "Pet Food Storage Container",
+        "price": 431,
+        "rating": null,
+        "discount": 16,
+        "category": "Pets"
+    },
+    {
+        "name": "Digital Alarm Clock",
+        "price": 228,
+        "rating": 4.8,
+        "discount": 16,
+        "category": "Home"
+    },
+    {
+        "name": "Camping Chair with Cooler",
+        "price": 290,
+        "rating": 4.2,
+        "discount": 15,
+        "category": "Outdoor"
+    },
+    {
+        "name": "Apple Cinnamon Instant Oatmeal",
+        "price": 311,
+        "rating": 2.2,
+        "discount": 21,
+        "category": "Food - Cereal"
+    },
+    {
+        "name": "Tomato Basil Soup",
+        "price": 210,
+        "rating": 2.5,
+        "discount": 7,
+        "category": "Food - Canned Goods"
+    },
+    {
+        "name": "Instant Camera",
+        "price": 372,
+        "rating": 2.5,
+        "discount": 17,
+        "category": "Photography"
+    },
+    {
+        "name": "Coconut Cream Pie Yogurt",
+        "price": 446,
+        "rating": 3.0,
+        "discount": 25,
+        "category": "Food - Dairy Alternatives"
+    },
+    {
+        "name": "Honey Sriracha Chicken Bites",
+        "price": 217,
+        "rating": 3.8,
+        "discount": 31,
+        "category": "Food - Frozen Foods"
+    },
+    {
+        "name": "Yoga Mat Carrier",
+        "price": 144,
+        "rating": 3.8,
+        "discount": 24,
+        "category": "Fitness"
+    },
+    {
+        "name": "Cinnamon Roll Dough",
+        "price": 145,
+        "rating": 2.3,
+        "discount": 18,
+        "category": "Food - Bakery"
+    },
+    {
+        "name": "Traditional Hummus",
+        "price": 361,
+        "rating": 3.8,
+        "discount": 20,
+        "category": "Food - Dips"
+    },
+    {
+        "name": "Cilantro Lime Rice",
+        "price": 388,
+        "rating": 2.0,
+        "discount": 13,
+        "category": "Food - Grains"
+    },
+    {
+        "name": "Lemon Sorbet",
+        "price": 441,
+        "rating": 3.2,
+        "discount": 36,
+        "category": "Food - Frozen Desserts"
+    },
+    {
+        "name": "Magnetic Whiteboard",
+        "price": 448,
+        "rating": 2.6,
+        "discount": 37,
+        "category": "Office"
+    },
+    {
+        "name": "Snack Container Set",
+        "price": 319,
+        "rating": 2.1,
+        "discount": 16,
+        "category": "Kitchen"
+    },
+    {
+        "name": "Overnight Hiking Backpack",
+        "price": 300,
+        "rating": 1.6,
+        "discount": 36,
+        "category": "Outdoor"
+    },
+    {
+        "name": "Eco-Friendly Yoga Blocks",
+        "price": 460,
+        "rating": null,
+        "discount": 40,
+        "category": "Fitness"
+    },
+    {
+        "name": "Laptop Sleeve",
+        "price": 237,
+        "rating": 4.2,
+        "discount": 21,
+        "category": "Accessories"
+    },
+    {
+        "name": "Adjustable Resistance Bands",
+        "price": 488,
+        "rating": 3.1,
+        "discount": 4,
+        "category": "Fitness"
+    },
+    {
+        "name": "Oversized Denim Shirt",
+        "price": 265,
+        "rating": 4.0,
+        "discount": 22,
+        "category": "Clothing - Shirts"
+    },
+    {
+        "name": "Travel Sewing Kit",
+        "price": 200,
+        "rating": 2.1,
+        "discount": 7,
+        "category": "Travel"
+    },
+    {
+        "name": "Car Emergency Kit",
+        "price": 450,
+        "rating": 1.2,
+        "discount": 16,
+        "category": "Automotive"
+    },
+    {
+        "name": "Solar Garden Lights",
+        "price": 496,
+        "rating": 3.6,
+        "discount": 40,
+        "category": "Outdoor"
+    },
+    {
+        "name": "Portable Phone Mug Holder",
+        "price": 196,
+        "rating": 1.3,
+        "discount": 40,
+        "category": "Automotive"
+    },
+    {
+        "name": "Compact Umbrella",
+        "price": 120,
+        "rating": 5.0,
+        "discount": 35,
+        "category": "Accessories"
+    },
+    {
+        "name": "Slim Wallet",
+        "price": 77,
+        "rating": 2.3,
+        "discount": 27,
+        "category": "Accessories"
+    },
+    {
+        "name": "Classic Chicken Noodle Soup",
+        "price": 143,
+        "rating": 2.1,
+        "discount": 20,
+        "category": "Food - Canned Goods"
+    },
+    {
+        "name": "Dark Chocolate Bars",
+        "price": 61,
+        "rating": 2.6,
+        "discount": 17,
+        "category": "Food - Snacks"
+    },
+    {
+        "name": "Honey Graham Crackers",
+        "price": 74,
+        "rating": 4.2,
+        "discount": 31,
+        "category": "Food - Snacks"
+    },
+    {
+        "name": "Sunglasses",
+        "price": 439,
+        "rating": 4.2,
+        "discount": 38,
+        "category": "Accessories"
+    },
+    {
+        "name": "Cotton Sweatpants",
+        "price": 286,
+        "rating": 3.3,
+        "discount": 10,
+        "category": "Clothing - Bottoms"
+    },
+    {
+        "name": "Organic Tomato Soup",
+        "price": 225,
+        "rating": 4.0,
+        "discount": 39,
+        "category": "Food - Canned Goods"
+    },
+    {
+        "name": "Mint Chocolate Chip Ice Cream",
+        "price": 497,
+        "rating": 3.8,
+        "discount": 31,
+        "category": "Food - Frozen Desserts"
+    },
+    {
+        "name": "Almond Flour Bread Mix",
+        "price": 231,
+        "rating": 1.5,
+        "discount": 27,
+        "category": "Food - Baking"
+    },
+    {
+        "name": "Grilled Veggie Burgers",
+        "price": 69,
+        "rating": 1.6,
+        "discount": 39,
+        "category": "Food - Meat Alternatives"
+    },
+    {
+        "name": "Italian Herbal Seasoning",
+        "price": 191,
+        "rating": null,
+        "discount": 3,
+        "category": "Food - Spices"
+    },
+    {
+        "name": "Multi-Function Smartphone Holder",
+        "price": 151,
+        "rating": 4.2,
+        "discount": 39,
+        "category": "Electronics"
+    },
+    {
+        "name": "Rolling Cooler",
+        "price": 241,
+        "rating": 3.4,
+        "discount": 19,
+        "category": "Outdoor"
+    },
+    {
+        "name": "Wireless Induction Charger",
+        "price": 319,
+        "rating": 4.8,
+        "discount": 5,
+        "category": "Electronics"
+    },
+    {
+        "name": "Avocado Lime Dressing",
+        "price": 477,
+        "rating": 1.4,
+        "discount": 2,
+        "category": "Food - Condiments"
+    },
+    {
+        "name": "Spiced Pumpkin Soup",
+        "price": 83,
+        "rating": 4.0,
+        "discount": 35,
+        "category": "Food - Canned Soups"
+    },
+    {
+        "name": "Pressure Cooker",
+        "price": 331,
+        "rating": 3.8,
+        "discount": 2,
+        "category": "Kitchen"
+    },
+    {
+        "name": "Steak Seasoning Rub",
+        "price": 110,
+        "rating": 1.7,
+        "discount": 27,
+        "category": "Food - Spices"
+    },
+    {
+        "name": "Luxury Bath Robe",
+        "price": 156,
+        "rating": 4.0,
+        "discount": 6,
+        "category": "Clothing"
+    },
+    {
+        "name": "Avocado Oil Mayo",
+        "price": 309,
+        "rating": 3.9,
+        "discount": 34,
+        "category": "Food - Condiments"
+    },
+    {
+        "name": "Sliced Cucumbers",
+        "price": 432,
+        "rating": 4.8,
+        "discount": 8,
+        "category": "Food - Produce"
+    },
+    {
+        "name": "Brown Sugar",
+        "price": 156,
+        "rating": 3.8,
+        "discount": 17,
+        "category": "Food - Baking"
+    },
+    {
+        "name": "Garlic Butter Sauce",
+        "price": 219,
+        "rating": null,
+        "discount": 20,
+        "category": "Food - Condiments"
+    },
+    {
+        "name": "Flavored Instant Oatmeal",
+        "price": 258,
+        "rating": 2.8,
+        "discount": 16,
+        "category": "Food - Breakfast"
+    },
+    {
+        "name": "Chilli Lime Corn on the Cob",
+        "price": 265,
+        "rating": 4.6,
+        "discount": 23,
+        "category": "Food - Vegetable"
+    },
+    {
+        "name": "Vegetarian Stir Fry Sauce",
+        "price": 167,
+        "rating": null,
+        "discount": 16,
+        "category": "Food - Condiments"
+    },
+    {
+        "name": "Organic Cereal Bars",
+        "price": 297,
+        "rating": 3.1,
+        "discount": 34,
+        "category": "Food - Snacks"
+    },
+    {
+        "name": "Cucumber Relish",
+        "price": 87,
+        "rating": 2.7,
+        "discount": 19,
+        "category": "Food - Condiments"
+    },
+    {
+        "name": "Organic Fruit Salad",
+        "price": 434,
+        "rating": 2.7,
+        "discount": 13,
+        "category": "Food - Produce"
+    },
+    {
+        "name": "Homestyle Beef Stew",
+        "price": 379,
+        "rating": 1.4,
+        "discount": 31,
+        "category": "Food - Canned Soups"
+    },
+    {
+        "name": "3D Night Light",
+        "price": 364,
+        "rating": 4.0,
+        "discount": 25,
+        "category": "Home"
+    },
+    {
+        "name": "Compact Digital Camera",
+        "price": 53,
+        "rating": 1.9,
+        "discount": 39,
+        "category": "Photography"
+    },
+    {
+        "name": "Savory Pumpkin Soup",
+        "price": 88,
+        "rating": 1.0,
+        "discount": 14,
+        "category": "Food - Soups"
+    },
+    {
+        "name": "Berry Smoothie Mix",
+        "price": 433,
+        "rating": 2.9,
+        "discount": 22,
+        "category": "Food - Frozen Foods"
+    },
+    {
+        "name": "Overnight Duffle Bag",
+        "price": 208,
+        "rating": 1.7,
+        "discount": 20,
+        "category": "Travel"
+    },
+    {
+        "name": "Pasta Maker",
+        "price": 131,
+        "rating": 3.5,
+        "discount": 26,
+        "category": "Kitchen"
+    },
+    {
+        "name": "Camera Tripod",
+        "price": 69,
+        "rating": 4.0,
+        "discount": 1,
+        "category": "Photography"
+    },
+    {
+        "name": "Handmade Wooden Utensil Set",
+        "price": 82,
+        "rating": null,
+        "discount": 34,
+        "category": "Kitchen"
+    },
+    {
+        "name": "Portable Hammock with Stand",
+        "price": 231,
+        "rating": 4.8,
+        "discount": 40,
+        "category": "Outdoor"
+    },
+    {
+        "name": "Pretzel Bites",
+        "price": 483,
+        "rating": 4.0,
+        "discount": 27,
+        "category": "Food - Snacks"
+    },
+    {
+        "name": "Customizable Name Puzzle",
+        "price": 105,
+        "rating": 1.3,
+        "discount": 4,
+        "category": "Toys"
+    },
+    {
+        "name": "Vegetable Broth",
+        "price": 53,
+        "rating": 2.7,
+        "discount": 5,
+        "category": "Food - Canned Goods"
+    },
+    {
+        "name": "Smart Thermostat",
+        "price": 413,
+        "rating": 1.1,
+        "discount": 15,
+        "category": "Smart Home"
+    },
+    {
+        "name": "Chunky Knit Sweater",
+        "price": 324,
+        "rating": 3.1,
+        "discount": 7,
+        "category": "Clothing - Tops"
+    },
+    {
+        "name": "Personalized Cutting Board",
+        "price": 72,
+        "rating": 3.6,
+        "discount": 14,
+        "category": "Kitchen"
+    },
+    {
+        "name": "Chili Powder",
+        "price": 419,
+        "rating": 2.4,
+        "discount": 36,
+        "category": "Food - Spices"
+    },
+    {
+        "name": "Dishwasher Safe Cutting Board",
+        "price": 389,
+        "rating": 1.7,
+        "discount": 18,
+        "category": "Kitchen"
+    },
+    {
+        "name": "Emergency Preparedness Kit",
+        "price": 230,
+        "rating": null,
+        "discount": 6,
+        "category": "Safety"
+    },
+    {
+        "name": "Woven Storage Baskets",
+        "price": 250,
+        "rating": 2.4,
+        "discount": 8,
+        "category": "Home"
+    },
+    {
+        "name": "Garlic Parmesan Roasted Potatoes",
+        "price": 474,
+        "rating": 2.4,
+        "discount": 26,
+        "category": "Food - Sides"
+    },
+    {
+        "name": "Compact Umbrella",
+        "price": 198,
+        "rating": 1.2,
+        "discount": 32,
+        "category": "Accessories"
+    },
+    {
+        "name": "Adjustable Dumbbells",
+        "price": 82,
+        "rating": 3.0,
+        "discount": 31,
+        "category": "Fitness"
+    },
+    {
+        "name": "Whole Roasted Chicken",
+        "price": 205,
+        "rating": 4.8,
+        "discount": 13,
+        "category": "Food - Meats"
+    },
+    {
+        "name": "Mediterranean Olives",
+        "price": 297,
+        "rating": 2.1,
+        "discount": 30,
+        "category": "Food - Condiments"
+    },
+    {
+        "name": "Digital Food Thermometer",
+        "price": 160,
+        "rating": 4.2,
+        "discount": 0,
+        "category": "Kitchen"
+    },
+    {
+        "name": "Vegetarian Stir Fry Sauce",
+        "price": 173,
+        "rating": 2.2,
+        "discount": 2,
+        "category": "Food - Condiments"
+    },
+    {
+        "name": "Kale Chips",
+        "price": 290,
+        "rating": 2.1,
+        "discount": 6,
+        "category": "Food - Snacks"
+    },
+    {
+        "name": "Ergonomic Gaming Chair",
+        "price": 60,
+        "rating": 3.6,
+        "discount": 22,
+        "category": "Gaming"
+    },
+    {
+        "name": "Frozen Berry Medley",
+        "price": 78,
+        "rating": 3.3,
+        "discount": 31,
+        "category": "Food - Frozen Foods"
+    },
+    {
+        "name": "Dark Chocolate Covered Raisins",
+        "price": 275,
+        "rating": 1.9,
+        "discount": 5,
+        "category": "Food - Snacks"
+    },
+    {
+        "name": "Bluetooth Tracker",
+        "price": 471,
+        "rating": 3.8,
+        "discount": 18,
+        "category": "Accessories"
+    },
+    {
+        "name": "Fitness Jump Rope with LCD Counter",
+        "price": 139,
+        "rating": 1.9,
+        "discount": 7,
+        "category": "Fitness"
+    },
+    {
+        "name": "BBQ Sauce",
+        "price": 467,
+        "rating": 2.3,
+        "discount": 19,
+        "category": "Food - Condiments"
+    },
+    {
+        "name": "Vegetable Sushi Rolls",
+        "price": 219,
+        "rating": 2.5,
+        "discount": 28,
+        "category": "Food - Prepared Meals"
+    },
+    {
+        "name": "DIY Lip Balm Making Kit",
+        "price": 189,
+        "rating": 1.3,
+        "discount": 20,
+        "category": "Crafts"
+    },
+    {
+        "name": "Honey Nut Cheerios",
+        "price": 316,
+        "rating": 2.0,
+        "discount": 7,
+        "category": "Food - Cereal"
+    },
+    {
+        "name": "Chili Beans (canned)",
+        "price": 409,
+        "rating": 1.9,
+        "discount": 37,
+        "category": "Food - Canned Goods"
+    },
+    {
+        "name": "Sesame Ginger Dressing",
+        "price": 176,
+        "rating": 2.2,
+        "discount": 5,
+        "category": "Food - Condiments"
+    },
+    {
+        "name": "Waffle Maker",
+        "price": 320,
+        "rating": 1.3,
+        "discount": 26,
+        "category": "Kitchen"
+    },
+    {
+        "name": "Garlic Herb Marinade",
+        "price": 262,
+        "rating": 3.7,
+        "discount": 29,
+        "category": "Food - Marinades"
+    },
+    {
+        "name": "Pocket Blanket",
+        "price": 227,
+        "rating": 2.8,
+        "discount": 17,
+        "category": "Outdoor"
+    },
+    {
+        "name": "Sculpting Kit",
+        "price": 61,
+        "rating": 2.1,
+        "discount": 39,
+        "category": "Art Supplies"
+    },
+    {
+        "name": "Memory Card",
+        "price": 153,
+        "rating": null,
+        "discount": 14,
+        "category": "Storage"
+    },
+    {
+        "name": "Savory Breakfast Sausage",
+        "price": 115,
+        "rating": 3.1,
+        "discount": 21,
+        "category": "Food - Meats"
+    },
+    {
+        "name": "Silicone Baking Cups",
+        "price": 460,
+        "rating": 3.7,
+        "discount": 0,
+        "category": "Kitchen"
+    },
+    {
+        "name": "Mediterranean Chickpea Bowl",
+        "price": 54,
+        "rating": 2.1,
+        "discount": 19,
+        "category": "Food - Prepared Foods"
+    },
+    {
+        "name": "Infrared Thermometer",
+        "price": 363,
+        "rating": 3.9,
+        "discount": 13,
+        "category": "Health"
+    },
+    {
+        "name": "Spicy Tuna Salad",
+        "price": 157,
+        "rating": 4.5,
+        "discount": 17,
+        "category": "Food - Seafood"
+    },
+    {
+        "name": "Baking Powder",
+        "price": 202,
+        "rating": 4.9,
+        "discount": 27,
+        "category": "Food - Baking Goods"
+    },
+    {
+        "name": "LED Makeup Mirror",
+        "price": 174,
+        "rating": 4.3,
+        "discount": 22,
+        "category": "Beauty"
+    },
+    {
+        "name": "Ice Pack",
+        "price": 382,
+        "rating": 1.6,
+        "discount": 1,
+        "category": "Health"
+    },
+    {
+        "name": "Foldable Picnic Table",
+        "price": 234,
+        "rating": 2.4,
+        "discount": 0,
+        "category": "Outdoor"
+    },
+    {
+        "name": "Chocolate Chip Cookie Mix",
+        "price": 279,
+        "rating": 3.6,
+        "discount": 40,
+        "category": "Food - Baking"
+    },
+    {
+        "name": "Coconut Granola",
+        "price": 266,
+        "rating": 1.9,
+        "discount": 33,
+        "category": "Food - Snacks"
+    },
+    {
+        "name": "Oven Mitts",
+        "price": 106,
+        "rating": 3.9,
+        "discount": 37,
+        "category": "Kitchen"
+    },
+    {
+        "name": "Honey Roasted Almonds",
+        "price": 60,
+        "rating": 2.9,
+        "discount": 0,
+        "category": "Food - Snacks"
+    },
+    {
+        "name": "Teriyaki Chicken Skewers",
+        "price": 401,
+        "rating": 4.2,
+        "discount": 21,
+        "category": "Food - Meat"
+    },
+    {
+        "name": "Repair Tool Set for Home Improvement",
+        "price": 379,
+        "rating": 4.5,
+        "discount": 25,
+        "category": "Tools"
+    },
+    {
+        "name": "Electric Blanket",
+        "price": 416,
+        "rating": 2.3,
+        "discount": 14,
+        "category": "Home"
+    },
+    {
+        "name": "Digital Thermostat",
+        "price": 157,
+        "rating": 5.0,
+        "discount": 11,
+        "category": "Home"
+    },
+    {
+        "name": "Insulated Cooler",
+        "price": 363,
+        "rating": 3.9,
+        "discount": 34,
+        "category": "Outdoor"
+    },
+    {
+        "name": "Chili Beans (canned)",
+        "price": 177,
+        "rating": 4.5,
+        "discount": 13,
+        "category": "Food - Canned Goods"
+    },
+    {
+        "name": "Cereal Dispenser with Portion Control",
+        "price": 205,
+        "rating": 1.5,
+        "discount": 3,
+        "category": "Kitchen"
+    },
+    {
+        "name": "Tailgating Set",
+        "price": 472,
+        "rating": 1.4,
+        "discount": 40,
+        "category": "Outdoor"
+    },
+    {
+        "name": "Foldable Yoga Mat Carry Bag",
+        "price": 111,
+        "rating": 2.2,
+        "discount": 38,
+        "category": "Fitness"
+    },
+    {
+        "name": "Reusable Coffee Filter",
+        "price": 87,
+        "rating": 2.3,
+        "discount": 29,
+        "category": "Kitchen"
+    },
+    {
+        "name": "Personal Safety Alarm",
+        "price": 447,
+        "rating": 4.5,
+        "discount": 12,
+        "category": "Safety"
+    },
+    {
+        "name": "Electric Griddle with Removable Plates",
+        "price": 104,
+        "rating": 1.0,
+        "discount": 35,
+        "category": "Kitchen"
+    },
+    {
+        "name": "Mini Waffle Maker",
+        "price": 111,
+        "rating": null,
+        "discount": 28,
+        "category": "Kitchen"
+    },
+    {
+        "name": "Pet Bed",
+        "price": 438,
+        "rating": null,
+        "discount": 34,
+        "category": "Pets"
+    },
+    {
+        "name": "Spicy Garlic Edamame",
+        "price": 397,
+        "rating": 3.2,
+        "discount": 37,
+        "category": "Food - Snacks"
+    },
+    {
+        "name": "Self-Cleaning Water Bottle",
+        "price": 441,
+        "rating": 1.5,
+        "discount": 31,
+        "category": "Fitness"
+    },
+    {
+        "name": "Sushi Roll Kit",
+        "price": 470,
+        "rating": 3.7,
+        "discount": 29,
+        "category": "Food - Cooking Kits"
+    },
+    {
+        "name": "Foot Spa Bath Massager",
+        "price": 123,
+        "rating": 4.0,
+        "discount": 5,
+        "category": "Health"
+    },
+    {
+        "name": "Magnetic Chess Set",
+        "price": 195,
+        "rating": 4.8,
+        "discount": 0,
+        "category": "Toys"
+    },
+    {
+        "name": "Almond Joy Munch Bars",
+        "price": 255,
+        "rating": 1.3,
+        "discount": 27,
+        "category": "Food - Snacks"
+    },
+    {
+        "name": "Diced Tomatoes (canned)",
+        "price": 411,
+        "rating": 2.9,
+        "discount": 20,
+        "category": "Food - Canned Goods"
+    },
+    {
+        "name": "Wireless Wi-Fi Extender",
+        "price": 64,
+        "rating": 4.0,
+        "discount": 4,
+        "category": "Electronics"
+    },
+    {
+        "name": "Wall-Mounted Bookshelf",
+        "price": 268,
+        "rating": 3.2,
+        "discount": 24,
+        "category": "Home"
+    },
+    {
+        "name": "Fresh Lemons",
+        "price": 51,
+        "rating": 2.7,
+        "discount": 11,
+        "category": "Food - Fresh Produce"
+    },
+    {
+        "name": "Wireless Wi-Fi Extender",
+        "price": 355,
+        "rating": 3.9,
+        "discount": 13,
+        "category": "Electronics"
+    },
+    {
+        "name": "Thai Peanut Noodles",
+        "price": 181,
+        "rating": 1.1,
+        "discount": 29,
+        "category": "Food - Pasta"
+    },
+    {
+        "name": "Spicy Chicken Wings",
+        "price": 492,
+        "rating": 4.8,
+        "discount": 38,
+        "category": "Food - Meat"
+    },
+    {
+        "name": "Garlic Parmesan Wings",
+        "price": 52,
+        "rating": 4.3,
+        "discount": 17,
+        "category": "Food - Frozen Foods"
+    },
+    {
+        "name": "Children's Backpack",
+        "price": 447,
+        "rating": 3.0,
+        "discount": 28,
+        "category": "Accessories"
+    },
+    {
+        "name": "Basketball",
+        "price": 239,
+        "rating": 3.9,
+        "discount": 2,
+        "category": "Sports"
+    },
+    {
+        "name": "LED Strip Lights",
+        "price": 251,
+        "rating": 4.1,
+        "discount": 19,
+        "category": "Home"
+    },
+    {
+        "name": "Compact Umbrella",
+        "price": 422,
+        "rating": 4.1,
+        "discount": 30,
+        "category": "Accessories"
+    },
+    {
+        "name": "Peach Halves (canned)",
+        "price": 205,
+        "rating": 2.1,
+        "discount": 23,
+        "category": "Food - Canned Goods"
+    },
+    {
+        "name": "Foam Muscle Roller",
+        "price": 466,
+        "rating": 3.6,
+        "discount": 8,
+        "category": "Fitness"
+    },
+    {
+        "name": "Cucumber Lime Sparkling Water",
+        "price": 364,
+        "rating": 3.6,
+        "discount": 39,
+        "category": "Food - Beverages"
+    },
+    {
+        "name": "Insulated Cooler",
+        "price": 204,
+        "rating": 3.8,
+        "discount": 14,
+        "category": "Outdoor"
+    },
+    {
+        "name": "Artisan Pickles",
+        "price": 350,
+        "rating": 4.6,
+        "discount": 6,
+        "category": "Food - Condiments"
+    },
+    {
+        "name": "Dark Chocolate Tart",
+        "price": 171,
+        "rating": 3.0,
+        "discount": 19,
+        "category": "Food - Desserts"
+    },
+    {
+        "name": "Self-Inflating Camping Mattress",
+        "price": 315,
+        "rating": 3.6,
+        "discount": 11,
+        "category": "Outdoor"
+    },
+    {
+        "name": "Whole Grain Cereal",
+        "price": 451,
+        "rating": 4.2,
+        "discount": 27,
+        "category": "Food - Breakfast"
+    },
+    {
+        "name": "Organic Green Lentils",
+        "price": 328,
+        "rating": 4.0,
+        "discount": 36,
+        "category": "Food - Grocery"
+    },
+    {
+        "name": "Fleece Throw Blanket",
+        "price": 219,
+        "rating": 1.7,
+        "discount": 28,
+        "category": "Home"
+    },
+    {
+        "name": "Cold Brew Coffee Maker",
+        "price": 371,
+        "rating": 3.1,
+        "discount": 27,
+        "category": "Kitchen"
+    },
+    {
+        "name": "Fruit and Nut Bars",
+        "price": 491,
+        "rating": null,
+        "discount": 30,
+        "category": "Food - Snacks"
+    },
+    {
+        "name": "Self-Inflating Camping Mattress",
+        "price": 162,
+        "rating": 2.1,
+        "discount": 1,
+        "category": "Outdoor"
+    },
+    {
+        "name": "Pet Safety Harness",
+        "price": 161,
+        "rating": 1.5,
+        "discount": 7,
+        "category": "Pets"
+    },
+    {
+        "name": "Honey Glazed Carrots",
+        "price": 202,
+        "rating": 4.0,
+        "discount": 32,
+        "category": "Food - Produce"
+    },
+    {
+        "name": "Smartphone Tripod with Bluetooth Remote",
+        "price": 309,
+        "rating": 1.8,
+        "discount": 30,
+        "category": "Photography"
+    },
+    {
+        "name": "Handheld Garment Steamer",
+        "price": 411,
+        "rating": 3.0,
+        "discount": 8,
+        "category": "Home"
+    },
+    {
+        "name": "Sweet and Spicy Barbecue Sauce",
+        "price": 289,
+        "rating": 3.4,
+        "discount": 22,
+        "category": "Food - Condiments"
+    },
+    {
+        "name": "Wrist Support Brace",
+        "price": 111,
+        "rating": 3.7,
+        "discount": 24,
+        "category": "Health"
+    },
+    {
+        "name": "Granola Bars",
+        "price": 357,
+        "rating": 3.3,
+        "discount": 29,
+        "category": "Food - Snacks"
+    },
+    {
+        "name": "Crispy Rice Treats",
+        "price": 253,
+        "rating": 1.4,
+        "discount": 30,
+        "category": "Food - Snacks"
+    },
+    {
+        "name": "Puffed Rice Cake",
+        "price": 488,
+        "rating": 3.5,
+        "discount": 30,
+        "category": "Food - Snacks"
+    },
+    {
+        "name": "Shredded Cheese",
+        "price": 488,
+        "rating": 3.4,
+        "discount": 7,
+        "category": "Food - Dairy"
+    },
+    {
+        "name": "Bluetooth Shower Speaker",
+        "price": 389,
+        "rating": 1.0,
+        "discount": 20,
+        "category": "Audio"
+    },
+    {
+        "name": "Teriyaki Salmon Fillets",
+        "price": 186,
+        "rating": 2.6,
+        "discount": 11,
+        "category": "Food - Seafood"
+    },
+    {
+        "name": "Camera Lens Cleaning Kit",
+        "price": 434,
+        "rating": 1.8,
+        "discount": 32,
+        "category": "Photography"
+    },
+    {
+        "name": "Multifunctional Pocket Tool",
+        "price": 405,
+        "rating": 4.0,
+        "discount": 40,
+        "category": "Tools"
+    },
+    {
+        "name": "Wireless Charger",
+        "price": 84,
+        "rating": 3.5,
+        "discount": 0,
+        "category": "Accessories"
+    },
+    {
+        "name": "LED Makeup Mirror",
+        "price": 52,
+        "rating": 2.8,
+        "discount": 16,
+        "category": "Beauty"
+    },
+    {
+        "name": "Maple Almond Yogurt",
+        "price": 362,
+        "rating": 2.9,
+        "discount": 28,
+        "category": "Food - Dairy"
+    },
+    {
+        "name": "Electric Stir Fry Pan",
+        "price": 219,
+        "rating": 3.1,
+        "discount": 30,
+        "category": "Kitchen"
+    },
+    {
+        "name": "Roasted Chickpeas",
+        "price": 175,
+        "rating": 3.6,
+        "discount": 6,
+        "category": "Food - Snacks"
+    },
+    {
+        "name": "Almond Joy Bars",
+        "price": 225,
+        "rating": 1.1,
+        "discount": 14,
+        "category": "Food - Confectionery"
+    },
+    {
+        "name": "Smoked Gouda Cheese",
+        "price": 331,
+        "rating": 4.2,
+        "discount": 13,
+        "category": "Food - Dairy"
+    },
+    {
+        "name": "Creamy Ranch Dressing",
+        "price": 497,
+        "rating": 3.5,
+        "discount": 19,
+        "category": "Food - Dressings"
+    },
+    {
+        "name": "Folding Pocket Knife",
+        "price": 135,
+        "rating": 1.2,
+        "discount": 13,
+        "category": "Tools"
+    },
+    {
+        "name": "Honey BBQ Ribs",
+        "price": 396,
+        "rating": 1.1,
+        "discount": 28,
+        "category": "Food - Meat"
+    },
+    {
+        "name": "Pork Tenderloin",
+        "price": 458,
+        "rating": 3.8,
+        "discount": 21,
+        "category": "Food - Meat"
+    },
+    {
+        "name": "Cocktail Shaker and Mixing Glass Set",
+        "price": 369,
+        "rating": 1.3,
+        "discount": 12,
+        "category": "Kitchen"
+    },
+    {
+        "name": "Silicone Ice Cube Tray",
+        "price": 384,
+        "rating": 3.5,
+        "discount": 14,
+        "category": "Kitchen"
+    },
+    {
+        "name": "Silicone Stretch Lids",
+        "price": 364,
+        "rating": 3.1,
+        "discount": 24,
+        "category": "Kitchen"
+    },
+    {
+        "name": "Apple Juice",
+        "price": 115,
+        "rating": 2.1,
+        "discount": 1,
+        "category": "Food - Beverages"
+    },
+    {
+        "name": "Sesame Oil",
+        "price": 208,
+        "rating": 2.0,
+        "discount": 1,
+        "category": "Food - Oils & Vinegars"
+    },
+    {
+        "name": "Whipped Cream Cheese",
+        "price": 215,
+        "rating": 2.3,
+        "discount": 3,
+        "category": "Food - Dairy"
+    },
+    {
+        "name": "Mini Indoor Herb Garden Kit",
+        "price": 195,
+        "rating": 2.8,
+        "discount": 30,
+        "category": "Garden"
+    },
+    {
+        "name": "Adjustable Standing Desk",
+        "price": 332,
+        "rating": 4.5,
+        "discount": 25,
+        "category": "Office"
+    },
+    {
+        "name": "Organic Black Bean Burger",
+        "price": 288,
+        "rating": 4.8,
+        "discount": 39,
+        "category": "Food - Frozen Foods"
+    },
+    {
+        "name": "Frozen Cauliflower Rice",
+        "price": 419,
+        "rating": 2.7,
+        "discount": 20,
+        "category": "Food - Frozen Foods"
+    },
+    {
+        "name": "Classic Beef Chili",
+        "price": 272,
+        "rating": 4.2,
+        "discount": 14,
+        "category": "Food - Canned Goods"
+    },
+    {
+        "name": "Collapsible Water Bottle",
+        "price": 397,
+        "rating": 2.9,
+        "discount": 5,
+        "category": "Fitness"
+    },
+    {
+        "name": "Truffle Parmesan Fries",
+        "price": 260,
+        "rating": 3.7,
+        "discount": 13,
+        "category": "Food - Snacks"
+    },
+    {
+        "name": "Pineapple Coconut Rice Mix",
+        "price": 214,
+        "rating": 4.8,
+        "discount": 5,
+        "category": "Food - Grains"
+    },
+    {
+        "name": "Mini Air Hockey Table",
+        "price": 86,
+        "rating": 2.8,
+        "discount": 8,
+        "category": "Toys"
+    },
+    {
+        "name": "Motorcycle Phone Mount",
+        "price": 421,
+        "rating": 3.6,
+        "discount": 15,
+        "category": "Automotive"
+    },
+    {
+        "name": "Crispy Rice Treats",
+        "price": 391,
+        "rating": 1.4,
+        "discount": 3,
+        "category": "Food - Snacks"
+    },
+    {
+        "name": "Pecan Pie Filling",
+        "price": 280,
+        "rating": 3.2,
+        "discount": 15,
+        "category": "Food - Baking Goods"
+    },
+    {
+        "name": "Stainless Steel Water Pitcher",
+        "price": 206,
+        "rating": null,
+        "discount": 35,
+        "category": "Kitchen"
+    },
+    {
+        "name": "Fitbit Activity Tracker",
+        "price": 193,
+        "rating": 1.4,
+        "discount": 22,
+        "category": "Fitness"
+    },
+    {
+        "name": "Rice Pudding",
+        "price": 115,
+        "rating": 4.8,
+        "discount": 35,
+        "category": "Food - Desserts"
+    },
+    {
+        "name": "Garden Tool Set with Carrying Bag",
+        "price": 207,
+        "rating": 4.1,
+        "discount": 33,
+        "category": "Garden"
+    },
+    {
+        "name": "Electric Air Pump",
+        "price": 76,
+        "rating": 4.0,
+        "discount": 23,
+        "category": "Outdoor"
+    },
+    {
+        "name": "Smart Home Security Camera",
+        "price": 338,
+        "rating": 1.5,
+        "discount": 37,
+        "category": "Smart Home"
+    },
+    {
+        "name": "Active Racerback Tank",
+        "price": 404,
+        "rating": 3.5,
+        "discount": 22,
+        "category": "Clothing - Tops"
+    },
+    {
+        "name": "Multi-Function Meat Tenderizer",
+        "price": 304,
+        "rating": 1.9,
+        "discount": 22,
+        "category": "Kitchen"
+    },
+    {
+        "name": "Creamy Coleslaw Mix",
+        "price": 205,
+        "rating": 2.4,
+        "discount": 30,
+        "category": "Food - Produce"
+    },
+    {
+        "name": "Wooden Children's Play Kitchen",
+        "price": 173,
+        "rating": 3.4,
+        "discount": 2,
+        "category": "Toys"
+    },
+    {
+        "name": "Ergonomic Mouse Pad with Wrist Support",
+        "price": 346,
+        "rating": 3.2,
+        "discount": 29,
+        "category": "Office"
+    },
+    {
+        "name": "Bamboo Toothbrush",
+        "price": 466,
+        "rating": 3.0,
+        "discount": 25,
+        "category": "Health"
+    },
+    {
+        "name": "Yoga Blocks",
+        "price": 213,
+        "rating": 1.7,
+        "discount": 9,
+        "category": "Fitness"
+    },
+    {
+        "name": "LED Strip Lights",
+        "price": 469,
+        "rating": 2.1,
+        "discount": 17,
+        "category": "Home"
+    },
+    {
+        "name": "Wireless Music Receiver",
+        "price": 496,
+        "rating": 3.2,
+        "discount": 18,
+        "category": "Audio"
+    },
+    {
+        "name": "Rice Cakes",
+        "price": 251,
+        "rating": 4.6,
+        "discount": 39,
+        "category": "Food - Snacks"
+    },
+    {
+        "name": "Desk Lamp with USB Port",
+        "price": 496,
+        "rating": null,
+        "discount": 28,
+        "category": "Office"
+    },
+    {
+        "name": "Sweet and Sour Sauce",
+        "price": 103,
+        "rating": 3.6,
+        "discount": 16,
+        "category": "Food - Condiments"
+    },
+    {
+        "name": "Compact Dishwasher",
+        "price": 343,
+        "rating": 1.1,
+        "discount": 28,
+        "category": "Home Appliances"
+    },
+    {
+        "name": "Ceramic Planter Set",
+        "price": 370,
+        "rating": 2.0,
+        "discount": 0,
+        "category": "Home"
+    },
+    {
+        "name": "Multifunctional Pocket Tool",
+        "price": 284,
+        "rating": 1.2,
+        "discount": 22,
+        "category": "Tools"
+    },
+    {
+        "name": "Winter Knit Beanie",
+        "price": 51,
+        "rating": 4.4,
+        "discount": 32,
+        "category": "Clothing"
+    },
+    {
+        "name": "Maple Almond Butter",
+        "price": 404,
+        "rating": 3.5,
+        "discount": 22,
+        "category": "Food - Nut Butters"
+    },
+    {
+        "name": "Peanut Butter Granola",
+        "price": 165,
+        "rating": 2.5,
+        "discount": 7,
+        "category": "Food - Breakfast"
+    },
+    {
+        "name": "Honey Sesame Chicken Mix",
+        "price": 208,
+        "rating": 3.7,
+        "discount": 31,
+        "category": "Food - Frozen Meals"
+    },
+    {
+        "name": "Repair Tool Set for Home Improvement",
+        "price": 394,
+        "rating": 3.0,
+        "discount": 13,
+        "category": "Tools"
+    },
+    {
+        "name": "Wi-Fi Enabled Smart Light Switch",
+        "price": 423,
+        "rating": 1.2,
+        "discount": 15,
+        "category": "Smart Home"
+    },
+    {
+        "name": "Ginger Snaps",
+        "price": 465,
+        "rating": 2.0,
+        "discount": 25,
+        "category": "Food - Confectionery"
+    },
+    {
+        "name": "Fitness Foam Roller",
+        "price": 374,
+        "rating": 1.6,
+        "discount": 14,
+        "category": "Fitness"
+    },
+    {
+        "name": "USB Flash Drive",
+        "price": 164,
+        "rating": 4.8,
+        "discount": 30,
+        "category": "Storage"
+    },
+    {
+        "name": "Body Wash",
+        "price": 129,
+        "rating": 4.5,
+        "discount": 27,
+        "category": "Beauty"
+    },
+    {
+        "name": "Fruit and Nut Medley",
+        "price": 476,
+        "rating": 4.8,
+        "discount": 39,
+        "category": "Food - Snacks"
+    },
+    {
+        "name": "Chocolate Chip Cookie Mix",
+        "price": 58,
+        "rating": 1.2,
+        "discount": 39,
+        "category": "Food - Baking"
+    },
+    {
+        "name": "Spiralizer",
+        "price": 57,
+        "rating": 4.7,
+        "discount": 37,
+        "category": "Kitchen"
+    },
+    {
+        "name": "Honey Nut Cheerios",
+        "price": 190,
+        "rating": 4.0,
+        "discount": 13,
+        "category": "Food - Cereal"
+    },
+    {
+        "name": "Home Cleaning Robot",
+        "price": 448,
+        "rating": 4.1,
+        "discount": 22,
+        "category": "Home Appliances"
+    },
+    {
+        "name": "Ribbed Knit Dress",
+        "price": 255,
+        "rating": 1.9,
+        "discount": 17,
+        "category": "Clothing - Dresses"
+    },
+    {
+        "name": "Couscous",
+        "price": 430,
+        "rating": 1.3,
+        "discount": 34,
+        "category": "Food - Grains"
+    },
+    {
+        "name": "Chickpea Pancakes",
+        "price": 363,
+        "rating": 4.2,
+        "discount": 19,
+        "category": "Food - Frozen"
+    },
+    {
+        "name": "Savory Oatmeal",
+        "price": 143,
+        "rating": 3.0,
+        "discount": 38,
+        "category": "Food - Breakfast"
+    },
+    {
+        "name": "Balsamic Vinegar",
+        "price": 174,
+        "rating": 4.6,
+        "discount": 10,
+        "category": "Food - Condiments"
+    },
+    {
+        "name": "Eco-Friendly Yoga Mat",
+        "price": 104,
+        "rating": 1.9,
+        "discount": 36,
+        "category": "Fitness"
+    },
+    {
+        "name": "Portable Camping Stove",
+        "price": 94,
+        "rating": 2.1,
+        "discount": 17,
+        "category": "Outdoor"
+    },
+    {
+        "name": "Smartphone Projector Kit",
+        "price": 56,
+        "rating": 4.7,
+        "discount": 35,
+        "category": "Electronics"
+    },
+    {
+        "name": "Gaming Headset",
+        "price": 250,
+        "rating": 1.7,
+        "discount": 9,
+        "category": "Gaming"
+    },
+    {
+        "name": "Basil Tomato Soup",
+        "price": 220,
+        "rating": 1.6,
+        "discount": 25,
+        "category": "Food - Canned Soups"
+    },
+    {
+        "name": "Mango Chilli Sauce",
+        "price": 190,
+        "rating": 1.3,
+        "discount": 15,
+        "category": "Food - Condiments"
+    },
+    {
+        "name": "Organic Black Rice",
+        "price": 440,
+        "rating": 3.4,
+        "discount": 0,
+        "category": "Food - Grains"
+    },
+    {
+        "name": "Buffalo Cauliflower Bites",
+        "price": 189,
+        "rating": 4.6,
+        "discount": 6,
+        "category": "Food - Freezer"
+    },
+    {
+        "name": "Non-Stick Baking Sheet",
+        "price": 486,
+        "rating": 2.2,
+        "discount": 31,
+        "category": "Kitchen"
+    },
+    {
+        "name": "Cotton Pajama Set",
+        "price": 92,
+        "rating": 3.2,
+        "discount": 39,
+        "category": "Clothing - Loungewear"
+    },
+    {
+        "name": "BBQ Jackfruit",
+        "price": 255,
+        "rating": 2.3,
+        "discount": 21,
+        "category": "Food - Prepared Foods"
+    },
+    {
+        "name": "High-Low Hem Tee",
+        "price": 350,
+        "rating": 3.4,
+        "discount": 25,
+        "category": "Clothing - Tops"
+    },
+    {
+        "name": "Creative Puzzle Game",
+        "price": 68,
+        "rating": 4.9,
+        "discount": 16,
+        "category": "Toys"
+    },
+    {
+        "name": "Sports Water Bottle with Infuser",
+        "price": 130,
+        "rating": 1.8,
+        "discount": 34,
+        "category": "Fitness"
+    },
+    {
+        "name": "Ramen Noodle Soup Cups",
+        "price": 468,
+        "rating": 1.0,
+        "discount": 11,
+        "category": "Food - Prepared Meals"
+    },
+    {
+        "name": "Pasta Portion Control Measure",
+        "price": 290,
+        "rating": 4.2,
+        "discount": 17,
+        "category": "Kitchen"
+    },
+    {
+        "name": "Gluten-Free Pancake Mix",
+        "price": 436,
+        "rating": 4.9,
+        "discount": 36,
+        "category": "Food - Baking Goods"
+    },
+    {
+        "name": "High-Top Leather Boots",
+        "price": 82,
+        "rating": 3.1,
+        "discount": 16,
+        "category": "Clothing - Footwear"
+    },
+    {
+        "name": "Oatmeal Raisin Cookies",
+        "price": 70,
+        "rating": 4.4,
+        "discount": 34,
+        "category": "Food - Baked Goods"
+    },
+    {
+        "name": "Steak Seasoning Rub",
+        "price": 172,
+        "rating": 3.4,
+        "discount": 5,
+        "category": "Food - Spices"
+    },
+    {
+        "name": "Honey Almond Granola Bars",
+        "price": 63,
+        "rating": 4.8,
+        "discount": 32,
+        "category": "Food - Snacks"
+    },
+    {
+        "name": "Pumpkin Seeds",
+        "price": 171,
+        "rating": 4.8,
+        "discount": 3,
+        "category": "Food - Snacks"
+    },
+    {
+        "name": "Honey Roasted Almonds",
+        "price": 324,
+        "rating": 3.2,
+        "discount": 31,
+        "category": "Food - Snacks"
+    },
+    {
+        "name": "Dog Training Whistle",
+        "price": 365,
+        "rating": 1.3,
+        "discount": 3,
+        "category": "Pets"
+    },
+    {
+        "name": "Infrared Space Heater",
+        "price": 161,
+        "rating": 4.5,
+        "discount": 8,
+        "category": "Home Appliances"
+    },
+    {
+        "name": "Organic Cereal Bars",
+        "price": 205,
+        "rating": 3.2,
+        "discount": 7,
+        "category": "Food - Snacks"
+    },
+    {
+        "name": "Ankle Boots",
+        "price": 93,
+        "rating": 4.5,
+        "discount": 3,
+        "category": "Clothing - Footwear"
+    },
+    {
+        "name": "Peach Green Tea",
+        "price": 412,
+        "rating": 3.0,
+        "discount": 33,
+        "category": "Food - Beverages"
+    },
+    {
+        "name": "Garden Hose",
+        "price": 462,
+        "rating": 2.4,
+        "discount": 37,
+        "category": "Garden"
+    },
+    {
+        "name": "High-Speed HDMI Cable",
+        "price": 305,
+        "rating": 3.0,
+        "discount": 5,
+        "category": "Electronics"
+    },
+    {
+        "name": "Hair Dryer",
+        "price": 212,
+        "rating": 2.1,
+        "discount": 40,
+        "category": "Beauty"
+    },
+    {
+        "name": "Eco-Friendly Stainless Steel Straws",
+        "price": 160,
+        "rating": 1.5,
+        "discount": 19,
+        "category": "Kitchen"
+    },
+    {
+        "name": "Dark Chocolate Covered Almonds",
+        "price": 300,
+        "rating": 1.9,
+        "discount": 34,
+        "category": "Food - Snacks"
+    },
+    {
+        "name": "High-Top Leather Boots",
+        "price": 405,
+        "rating": 4.2,
+        "discount": 24,
+        "category": "Clothing - Footwear"
+    },
+    {
+        "name": "Roasted Garlic Pasta Sauce",
+        "price": 442,
+        "rating": 2.2,
+        "discount": 11,
+        "category": "Food - Sauces"
+    },
+    {
+        "name": "Cable Knit Cardigan",
+        "price": 56,
+        "rating": 1.5,
+        "discount": 35,
+        "category": "Clothing - Outerwear"
+    },
+    {
+        "name": "Chickpea Pasta",
+        "price": 469,
+        "rating": 2.9,
+        "discount": 32,
+        "category": "Food - Pasta"
+    },
+    {
+        "name": "Organic Brown Sugar",
+        "price": 487,
+        "rating": 2.1,
+        "discount": 0,
+        "category": "Food - Baking"
+    },
+    {
+        "name": "Kids' Craft Supplies Set",
+        "price": 345,
+        "rating": 1.4,
+        "discount": 21,
+        "category": "Toys"
+    },
+    {
+        "name": "Vegan Taco Seasoning",
+        "price": 425,
+        "rating": 4.0,
+        "discount": 10,
+        "category": "Food - Spices"
+    },
+    {
+        "name": "Compact Folding Table",
+        "price": 416,
+        "rating": 2.2,
+        "discount": 0,
+        "category": "Outdoor"
+    },
+    {
+        "name": "Cream Cheese",
+        "price": 455,
+        "rating": 1.8,
+        "discount": 0,
+        "category": "Food - Dairy"
+    },
+    {
+        "name": "Balsamic Vinaigrette",
+        "price": 272,
+        "rating": 4.0,
+        "discount": 16,
+        "category": "Food - Dressings"
+    },
+    {
+        "name": "Frozen Mixed Vegetables",
+        "price": 72,
+        "rating": 1.1,
+        "discount": 16,
+        "category": "Food - Frozen"
+    },
+    {
+        "name": "Bamboo Utensil Holder",
+        "price": 426,
+        "rating": 1.8,
+        "discount": 28,
+        "category": "Kitchen"
+    },
+    {
+        "name": "Multifunctional Pocket Tool",
+        "price": 482,
+        "rating": 3.6,
+        "discount": 8,
+        "category": "Tools"
+    },
+    {
+        "name": "Cheddar Cheese Slices",
+        "price": 115,
+        "rating": 4.0,
+        "discount": 1,
+        "category": "Food - Dairy"
+    },
+    {
+        "name": "Indian Curry Sauce",
+        "price": 296,
+        "rating": 2.0,
+        "discount": 17,
+        "category": "Food - Condiments"
+    },
+    {
+        "name": "DIY Lip Balm Kit",
+        "price": 159,
+        "rating": 4.8,
+        "discount": 21,
+        "category": "Crafts"
+    },
+    {
+        "name": "Smoked Paprika Chicken Thighs",
+        "price": 198,
+        "rating": 1.0,
+        "discount": 39,
+        "category": "Food - Meat"
+    },
+    {
+        "name": "Truffle Parmesan Fries",
+        "price": 94,
+        "rating": 2.0,
+        "discount": 14,
+        "category": "Food - Snacks"
+    },
+    {
+        "name": "Set of Decorative Storage Bins",
+        "price": 344,
+        "rating": 1.1,
+        "discount": 13,
+        "category": "Home"
+    },
+    {
+        "name": "Peanut Butter Pretzel Nuggets",
+        "price": 317,
+        "rating": 1.1,
+        "discount": 8,
+        "category": "Food - Snacks"
+    },
+    {
+        "name": "Energy Bites",
+        "price": 498,
+        "rating": 4.9,
+        "discount": 14,
+        "category": "Food - Snacks"
+    },
+    {
+        "name": "Honey Lemon Tea",
+        "price": 423,
+        "rating": 1.9,
+        "discount": 10,
+        "category": "Food - Beverages"
+    },
+    {
+        "name": "Portable Grill Cover",
+        "price": 428,
+        "rating": 3.0,
+        "discount": 14,
+        "category": "Outdoor"
+    },
+    {
+        "name": "Pumpkin Pie Spice",
+        "price": 158,
+        "rating": 3.6,
+        "discount": 3,
+        "category": "Food - Baking"
+    },
+    {
+        "name": "Collapsible Storage Crates",
+        "price": 64,
+        "rating": 4.2,
+        "discount": 30,
+        "category": "Home"
+    },
+    {
+        "name": "Sliced Ham",
+        "price": 280,
+        "rating": 4.4,
+        "discount": 26,
+        "category": "Food - Meat"
+    },
+    {
+        "name": "Personalized Cutting Board",
+        "price": 500,
+        "rating": 2.4,
+        "discount": 2,
+        "category": "Kitchen"
+    },
+    {
+        "name": "Quality Chef Apron",
+        "price": 500,
+        "rating": 1.8,
+        "discount": 21,
+        "category": "Kitchen"
+    },
+    {
+        "name": "Sweet Potatoes",
+        "price": 425,
+        "rating": 2.5,
+        "discount": 37,
+        "category": "Food - Produce"
+    },
+    {
+        "name": "Maple Pecan Granola",
+        "price": 372,
+        "rating": 3.7,
+        "discount": 11,
+        "category": "Food - Breakfast"
+    },
+    {
+        "name": "Portable Charger with Solar Panel",
+        "price": 422,
+        "rating": 2.5,
+        "discount": 30,
+        "category": "Electronics"
+    },
+    {
+        "name": "Dark Chocolate Covered Raisins",
+        "price": 443,
+        "rating": 2.5,
+        "discount": 23,
+        "category": "Food - Snacks"
+    },
+    {
+        "name": "Avocados",
+        "price": 93,
+        "rating": 4.6,
+        "discount": 27,
+        "category": "Food - Produce"
+    },
+    {
+        "name": "Children's Art Set",
+        "price": 380,
+        "rating": 1.8,
+        "discount": 31,
+        "category": "Toys"
+    },
+    {
+        "name": "Wooden Kitchen Utensil Set",
+        "price": 429,
+        "rating": 2.7,
+        "discount": 22,
+        "category": "Kitchen"
+    },
+    {
+        "name": "Roasted Garlic Butter",
+        "price": 330,
+        "rating": 1.9,
+        "discount": 13,
+        "category": "Food - Condiments"
+    },
+    {
+        "name": "Pesto Pasta Sauce",
+        "price": 434,
+        "rating": 3.3,
+        "discount": 12,
+        "category": "Food - Sauces"
+    },
+    {
+        "name": "Herb Seasoned Couscous",
+        "price": 416,
+        "rating": 1.3,
+        "discount": 16,
+        "category": "Food - Grains"
+    },
+    {
+        "name": "Digital Stopwatch Timer",
+        "price": 50,
+        "rating": 2.8,
+        "discount": 32,
+        "category": "Fitness"
+    },
+    {
+        "name": "Natural Fruit Snacks",
+        "price": 126,
+        "rating": 3.6,
+        "discount": 8,
+        "category": "Food - Snacks"
+    },
+    {
+        "name": "Maple Syrup",
+        "price": 276,
+        "rating": 2.1,
+        "discount": 25,
+        "category": "Food - Condiments"
+    },
+    {
+        "name": "Electric Butter Churn",
+        "price": 90,
+        "rating": 1.1,
+        "discount": 2,
+        "category": "Kitchen"
+    },
+    {
+        "name": "Travel Document Organizer",
+        "price": 193,
+        "rating": 1.0,
+        "discount": 22,
+        "category": "Travel"
+    },
+    {
+        "name": "Pet Hair Removal Roller",
+        "price": 460,
+        "rating": 4.8,
+        "discount": 16,
+        "category": "Pets"
+    },
+    {
+        "name": "Sports Windbreaker",
+        "price": 80,
+        "rating": 3.2,
+        "discount": 3,
+        "category": "Clothing - Outerwear"
+    },
+    {
+        "name": "Balsamic Glaze",
+        "price": 57,
+        "rating": 3.5,
+        "discount": 5,
+        "category": "Food - Condiments"
+    },
+    {
+        "name": "Pumpkin Spice Granola",
+        "price": 161,
+        "rating": 4.3,
+        "discount": 0,
+        "category": "Food - Breakfast"
+    },
+    {
+        "name": "Garden Hose Reel",
+        "price": 140,
+        "rating": 2.1,
+        "discount": 21,
+        "category": "Garden"
+    },
+    {
+        "name": "Organic Ramen Noodles",
+        "price": 435,
+        "rating": 1.6,
+        "discount": 1,
+        "category": "Food - Pasta"
+    },
+    {
+        "name": "Smart Scale",
+        "price": 489,
+        "rating": 3.1,
+        "discount": 10,
+        "category": "Health"
+    },
+    {
+        "name": "Wireless Earbuds",
+        "price": 326,
+        "rating": 2.1,
+        "discount": 29,
+        "category": "Audio"
+    },
+    {
+        "name": "Pet Leash",
+        "price": 334,
+        "rating": 2.0,
+        "discount": 24,
+        "category": "Pets"
+    },
+    {
+        "name": "Video Camera",
+        "price": 318,
+        "rating": 2.1,
+        "discount": 40,
+        "category": "Electronics"
+    },
+    {
+        "name": "Pineapple Salsa",
+        "price": 356,
+        "rating": null,
+        "discount": 38,
+        "category": "Food - Condiments"
+    },
+    {
+        "name": "A-Line Skirt",
+        "price": 308,
+        "rating": 1.2,
+        "discount": 11,
+        "category": "Clothing - Bottoms"
+    },
+    {
+        "name": "Watercolor Brush Pens",
+        "price": 75,
+        "rating": 2.0,
+        "discount": 22,
+        "category": "Art Supplies"
+    },
+    {
+        "name": "Herb Seasoned Couscous",
+        "price": 423,
+        "rating": 2.0,
+        "discount": 0,
+        "category": "Food - Grains"
+    },
+    {
+        "name": "Oversized Denim Shirt",
+        "price": 59,
+        "rating": 1.7,
+        "discount": 17,
+        "category": "Clothing - Shirts"
+    },
+    {
+        "name": "Spicy Thai Noodles",
+        "price": 408,
+        "rating": 3.6,
+        "discount": 20,
+        "category": "Food - Frozen Meals"
+    },
+    {
+        "name": "Garlic Herb Marinade",
+        "price": 149,
+        "rating": 3.5,
+        "discount": 25,
+        "category": "Food - Marinades"
+    },
+    {
+        "name": "Protein Powder",
+        "price": 230,
+        "rating": 3.2,
+        "discount": 24,
+        "category": "Fitness"
+    },
+    {
+        "name": "Apple Cinnamon Granola",
+        "price": 206,
+        "rating": 3.2,
+        "discount": 22,
+        "category": "Food - Breakfast"
+    },
+    {
+        "name": "Casual Cropped Sweater",
+        "price": 319,
+        "rating": 4.7,
+        "discount": 4,
+        "category": "Clothing - Sweaters"
+    },
+    {
+        "name": "Portable Jump Starter",
+        "price": 452,
+        "rating": 1.2,
+        "discount": 10,
+        "category": "Automotive"
+    },
+    {
+        "name": "Customizable Photo Calendar",
+        "price": 162,
+        "rating": 3.6,
+        "discount": 24,
+        "category": "Books"
+    },
+    {
+        "name": "Butternut Squash Soup",
+        "price": 161,
+        "rating": 2.6,
+        "discount": 19,
+        "category": "Food - Soups"
+    },
+    {
+        "name": "LED Under Cabinet Lighting",
+        "price": 371,
+        "rating": 2.3,
+        "discount": 20,
+        "category": "Home"
+    },
+    {
+        "name": "Chocolate Syrup",
+        "price": 271,
+        "rating": 1.1,
+        "discount": 18,
+        "category": "Food - Condiments"
+    },
+    {
+        "name": "Travel Hair Straightener",
+        "price": 105,
+        "rating": 3.9,
+        "discount": 29,
+        "category": "Beauty"
+    },
+    {
+        "name": "Sliced Ham",
+        "price": 444,
+        "rating": 1.2,
+        "discount": 40,
+        "category": "Food - Meat"
+    },
+    {
+        "name": "Lemon Sorbet",
+        "price": 378,
+        "rating": 1.4,
+        "discount": 10,
+        "category": "Food - Frozen Desserts"
+    },
+    {
+        "name": "Elderberry Syrup",
+        "price": 150,
+        "rating": 2.0,
+        "discount": 21,
+        "category": "Food - Supplements"
+    },
+    {
+        "name": "Peanut Butter Pretzel Nuggets",
+        "price": 459,
+        "rating": 4.5,
+        "discount": 32,
+        "category": "Food - Snacks"
+    },
+    {
+        "name": "Savory Rice Cakes",
+        "price": 212,
+        "rating": 1.3,
+        "discount": 40,
+        "category": "Food - Snacks"
+    },
+    {
+        "name": "Portable Air Purifier",
+        "price": 164,
+        "rating": 2.7,
+        "discount": 36,
+        "category": "Health"
+    },
+    {
+        "name": "Car Trash Can",
+        "price": 122,
+        "rating": 3.1,
+        "discount": 31,
+        "category": "Automotive"
+    },
+    {
+        "name": "Almond Flour Pancake Mix",
+        "price": 356,
+        "rating": 3.6,
+        "discount": 37,
+        "category": "Food - Baking"
+    },
+    {
+        "name": "Adjustable Resistance Bands",
+        "price": 61,
+        "rating": 3.9,
+        "discount": 22,
+        "category": "Fitness"
+    },
+    {
+        "name": "Fitness Tracker Watch",
+        "price": 364,
+        "rating": 1.4,
+        "discount": 20,
+        "category": "Wearable Tech"
+    },
+    {
+        "name": "Silicone Cooking Utensils Set",
+        "price": 68,
+        "rating": 2.7,
+        "discount": 6,
+        "category": "Kitchen"
+    },
+    {
+        "name": "Organic Coconut Yogurt",
+        "price": 314,
+        "rating": 4.1,
+        "discount": 38,
+        "category": "Food - Dairy"
+    },
+    {
+        "name": "Ripped Boyfriend Jeans",
+        "price": 150,
+        "rating": 4.5,
+        "discount": 0,
+        "category": "Clothing - Bottoms"
+    },
+    {
+        "name": "Vegan Cheese",
+        "price": 143,
+        "rating": 3.5,
+        "discount": 1,
+        "category": "Food - Dairy Alternatives"
+    },
+    {
+        "name": "Smartphone Gimbal Stabilizer",
+        "price": 266,
+        "rating": 2.2,
+        "discount": 33,
+        "category": "Photography"
+    },
+    {
+        "name": "Chili Garlic Sauce",
+        "price": 499,
+        "rating": 3.2,
+        "discount": 40,
+        "category": "Food - Condiments"
+    },
+    {
+        "name": "Ginger Tea",
+        "price": 50,
+        "rating": 4.1,
+        "discount": 24,
+        "category": "Food - Beverages"
+    },
+    {
+        "name": "Smart Home Security Camera",
+        "price": 312,
+        "rating": 3.4,
+        "discount": 4,
+        "category": "Smart Home"
+    },
+    {
+        "name": "Organic Whole Wheat Flour",
+        "price": 421,
+        "rating": 1.6,
+        "discount": 33,
+        "category": "Food - Baking Goods"
+    },
+    {
+        "name": "Oven Mitts with Pocket",
+        "price": 193,
+        "rating": 2.9,
+        "discount": 16,
+        "category": "Kitchen"
+    },
+    {
+        "name": "Two-Tone Windbreaker",
+        "price": 64,
+        "rating": 4.4,
+        "discount": 39,
+        "category": "Clothing - Outerwear"
+    },
+    {
+        "name": "Coconut Chips",
+        "price": 246,
+        "rating": 4.1,
+        "discount": 30,
+        "category": "Food - Snacks"
+    },
+    {
+        "name": "Stainless Steel Water Pitcher",
+        "price": 182,
+        "rating": 1.6,
+        "discount": 20,
+        "category": "Kitchen"
+    },
+    {
+        "name": "Frozen Cauliflower Rice",
+        "price": 455,
+        "rating": 2.9,
+        "discount": 39,
+        "category": "Food - Frozen Foods"
+    },
+    {
+        "name": "Ground Cinnamon",
+        "price": 80,
+        "rating": 4.5,
+        "discount": 13,
+        "category": "Food - Spices"
+    },
+    {
+        "name": "Smartphone UV Sanitizer",
+        "price": 225,
+        "rating": 4.7,
+        "discount": 12,
+        "category": "Health"
+    },
+    {
+        "name": "Set of Herb Garden Markers",
+        "price": 191,
+        "rating": 1.6,
+        "discount": 40,
+        "category": "Garden"
+    },
+    {
+        "name": "Toilet Paper (12 rolls)",
+        "price": 315,
+        "rating": 1.5,
+        "discount": 9,
+        "category": "Food - Household"
+    },
+    {
+        "name": "Potato Wedge Seasoning",
+        "price": 478,
+        "rating": 2.8,
+        "discount": 3,
+        "category": "Food - Condiments"
+    },
+    {
+        "name": "Dog Training Clicker",
+        "price": 109,
+        "rating": 3.9,
+        "discount": 1,
+        "category": "Pets"
+    },
+    {
+        "name": "Low-Fat Cottage Cheese",
+        "price": 206,
+        "rating": 2.5,
+        "discount": 38,
+        "category": "Food - Dairy"
+    },
+    {
+        "name": "Organic Granola",
+        "price": 426,
+        "rating": 1.4,
+        "discount": 22,
+        "category": "Food - Breakfast"
+    },
+    {
+        "name": "Induction Cooktop",
+        "price": 379,
+        "rating": 4.8,
+        "discount": 35,
+        "category": "Kitchen"
+    },
+    {
+        "name": "Mushrooms",
+        "price": 150,
+        "rating": 2.2,
+        "discount": 7,
+        "category": "Food - Produce"
+    },
+    {
+        "name": "Karaoke Microphone",
+        "price": 125,
+        "rating": 1.9,
+        "discount": 5,
+        "category": "Music"
+    },
+    {
+        "name": "Mango Sticky Rice Dessert",
+        "price": 414,
+        "rating": 2.3,
+        "discount": 10,
+        "category": "Food - Frozen Desserts"
+    },
+    {
+        "name": "Bodyweight Resistance Bands",
+        "price": 290,
+        "rating": 1.1,
+        "discount": 30,
+        "category": "Fitness"
+    },
+    {
+        "name": "Cranberry Almond Granola",
+        "price": 402,
+        "rating": 4.5,
+        "discount": 2,
+        "category": "Food - Breakfast"
+    },
+    {
+        "name": "Fitness Jump Rope with LCD Counter",
+        "price": 375,
+        "rating": 4.2,
+        "discount": 31,
+        "category": "Fitness"
+    },
+    {
+        "name": "Brussels Sprouts",
+        "price": 337,
+        "rating": 4.8,
+        "discount": 15,
+        "category": "Food - Produce"
+    },
+    {
+        "name": "Mediterranean Couscous Salad",
+        "price": 122,
+        "rating": 5.0,
+        "discount": 22,
+        "category": "Food - Salads"
+    },
+    {
+        "name": "Wild Rice & Quinoa Mix",
+        "price": 457,
+        "rating": 3.6,
+        "discount": 38,
+        "category": "Food - Grains"
+    },
+    {
+        "name": "Coffee Subscription Service",
+        "price": 261,
+        "rating": 1.3,
+        "discount": 0,
+        "category": "Food"
+    },
+    {
+        "name": "Wireless Keyboard and Mouse Combo",
+        "price": 140,
+        "rating": 4.6,
+        "discount": 38,
+        "category": "Electronics"
+    },
+    {
+        "name": "Quinoa",
+        "price": 208,
+        "rating": 3.9,
+        "discount": 19,
+        "category": "Food - Grains"
+    },
+    {
+        "name": "Stainless Steel Straws",
+        "price": 151,
+        "rating": 2.5,
+        "discount": 21,
+        "category": "Kitchen"
+    },
+    {
+        "name": "LED Strip Lights",
+        "price": 381,
+        "rating": 2.5,
+        "discount": 39,
+        "category": "Home"
+    },
+    {
+        "name": "Vegan Mayonnaise",
+        "price": 282,
+        "rating": 2.9,
+        "discount": 27,
+        "category": "Food - Condiments"
+    },
+    {
+        "name": "Luxury Bathrobe",
+        "price": 250,
+        "rating": 1.4,
+        "discount": 30,
+        "category": "Clothing"
+    },
+    {
+        "name": "Buttermilk Pancakes",
+        "price": 288,
+        "rating": 3.9,
+        "discount": 6,
+        "category": "Food - Breakfast"
+    },
+    {
+        "name": "Kale Salad with Lemon Dressing",
+        "price": 229,
+        "rating": 2.3,
+        "discount": 17,
+        "category": "Food - Salads"
+    },
+    {
+        "name": "Instant Pot",
+        "price": 317,
+        "rating": 1.5,
+        "discount": 22,
+        "category": "Kitchen"
+    },
+    {
+        "name": "Eggs (dozen)",
+        "price": 161,
+        "rating": 3.7,
+        "discount": 13,
+        "category": "Food - Dairy"
+    },
+    {
+        "name": "Mini Cordless Vacuum Cleaner",
+        "price": 379,
+        "rating": 4.0,
+        "discount": 40,
+        "category": "Home Appliances"
+    },
+    {
+        "name": "Pressure Washer Accessories Kit",
+        "price": 173,
+        "rating": 2.9,
+        "discount": 1,
+        "category": "Home Improvement"
+    },
+    {
+        "name": "Pumpkin Spice Granola",
+        "price": 388,
+        "rating": 2.2,
+        "discount": 12,
+        "category": "Food - Breakfast"
+    },
+    {
+        "name": "Honey Mustard Dip",
+        "price": 378,
+        "rating": 1.0,
+        "discount": 5,
+        "category": "Food - Condiments"
+    },
+    {
+        "name": "Beard Grooming Kit",
+        "price": 130,
+        "rating": 3.9,
+        "discount": 33,
+        "category": "Grooming"
+    },
+    {
+        "name": "Hand Mixer",
+        "price": 164,
+        "rating": 1.3,
+        "discount": 2,
+        "category": "Kitchen"
+    },
+    {
+        "name": "Herb Seasoned Croutons",
+        "price": 302,
+        "rating": 2.0,
+        "discount": 37,
+        "category": "Food - Salad Toppings"
+    },
+    {
+        "name": "Coconut Curry Sauce",
+        "price": 166,
+        "rating": 2.9,
+        "discount": 28,
+        "category": "Food - Sauces"
+    },
+    {
+        "name": "Portable Massage Gun",
+        "price": 371,
+        "rating": 3.7,
+        "discount": 31,
+        "category": "Health"
+    },
+    {
+        "name": "Pepperoni Pizza Roll-Ups",
+        "price": 207,
+        "rating": 4.2,
+        "discount": 15,
+        "category": "Food - Frozen Foods"
+    },
+    {
+        "name": "Cotton Pajama Set",
+        "price": 333,
+        "rating": 3.5,
+        "discount": 14,
+        "category": "Clothing - Loungewear"
+    },
+    {
+        "name": "Radish Chips",
+        "price": 172,
+        "rating": 1.8,
+        "discount": 8,
+        "category": "Food - Snacks"
+    },
+    {
+        "name": "Chocolate Almond Milk",
+        "price": 499,
+        "rating": 3.7,
+        "discount": 32,
+        "category": "Food - Dairy Alternatives"
+    },
+    {
+        "name": "Wall Calendar",
+        "price": 265,
+        "rating": 3.1,
+        "discount": 11,
+        "category": "Home"
+    },
+    {
+        "name": "Spicy Chicken Wings",
+        "price": 122,
+        "rating": 2.9,
+        "discount": 15,
+        "category": "Food - Meat"
+    },
+    {
+        "name": "Pet Hair Vacuum Cleaner Attachment",
+        "price": 162,
+        "rating": 3.3,
+        "discount": 18,
+        "category": "Pets"
+    },
+    {
+        "name": "Colorful Post-It Notes Set",
+        "price": 325,
+        "rating": 3.4,
+        "discount": 12,
+        "category": "Office"
+    },
+    {
+        "name": "Graphic Tee",
+        "price": 489,
+        "rating": 3.9,
+        "discount": 36,
+        "category": "Clothing"
+    },
+    {
+        "name": "Bamboo Cotton Tank Top",
+        "price": 351,
+        "rating": 4.1,
+        "discount": 2,
+        "category": "Clothing - Tops"
+    },
+    {
+        "name": "Camera Lens Cleaning Kit",
+        "price": 454,
+        "rating": 4.3,
+        "discount": 21,
+        "category": "Photography"
+    },
+    {
+        "name": "Dark Chocolate Covered Pretzels",
+        "price": 483,
+        "rating": 4.7,
+        "discount": 31,
+        "category": "Food - Snacks"
+    },
+    {
+        "name": "Vegan Protein Powder",
+        "price": 323,
+        "rating": 2.9,
+        "discount": 33,
+        "category": "Health"
+    },
+    {
+        "name": "Customizable Wall Calendar",
+        "price": 91,
+        "rating": 1.6,
+        "discount": 23,
+        "category": "Office"
+    },
+    {
+        "name": "Pet Carrier",
+        "price": 276,
+        "rating": 3.5,
+        "discount": 3,
+        "category": "Pets"
+    },
+    {
+        "name": "Chocolate Hazelnut Granola",
+        "price": 80,
+        "rating": null,
+        "discount": 31,
+        "category": "Food - Cereal"
+    },
+    {
+        "name": "Vegetable Broth",
+        "price": 479,
+        "rating": 2.4,
+        "discount": 31,
+        "category": "Food - Canned Goods"
+    },
+    {
+        "name": "Pet Grooming Brush",
+        "price": 266,
+        "rating": 4.8,
+        "discount": 14,
+        "category": "Pets"
+    },
+    {
+        "name": "Smartphone Tripod",
+        "price": 157,
+        "rating": 1.9,
+        "discount": 0,
+        "category": "Photography"
+    },
+    {
+        "name": "Car Emergency Kit",
+        "price": 277,
+        "rating": 3.5,
+        "discount": 21,
+        "category": "Automotive"
+    },
+    {
+        "name": "Foam Muscle Roller",
+        "price": 423,
+        "rating": 3.8,
+        "discount": 26,
+        "category": "Fitness"
+    },
+    {
+        "name": "Spicy Thai Chili Sauce",
+        "price": 359,
+        "rating": 1.8,
+        "discount": 19,
+        "category": "Food - Sauces"
+    },
+    {
+        "name": "Pita Bread",
+        "price": 236,
+        "rating": 3.3,
+        "discount": 30,
+        "category": "Food - Bakery"
+    },
+    {
+        "name": "Computer Monitor Stand",
+        "price": 168,
+        "rating": 2.2,
+        "discount": 33,
+        "category": "Office"
+    },
+    {
+        "name": "Savory Pumpkin Soup",
+        "price": 388,
+        "rating": 1.6,
+        "discount": 33,
+        "category": "Food - Soups"
+    },
+    {
+        "name": "Whisk Set",
+        "price": 413,
+        "rating": 1.8,
+        "discount": 10,
+        "category": "Kitchen"
+    },
+    {
+        "name": "Home Delivery Food Journal",
+        "price": 359,
+        "rating": 2.0,
+        "discount": 33,
+        "category": "Health"
+    },
+    {
+        "name": "Herbal Tea Variety Pack",
+        "price": 71,
+        "rating": 3.8,
+        "discount": 12,
+        "category": "Food - Beverages"
+    },
+    {
+        "name": "Multi-Layer Food Steamer",
+        "price": 368,
+        "rating": 1.7,
+        "discount": 28,
+        "category": "Kitchen"
+    },
+    {
+        "name": "Chili Lime Corn Chips",
+        "price": 433,
+        "rating": null,
+        "discount": 18,
+        "category": "Food - Snacks"
+    },
+    {
+        "name": "LED Flashlight with Rechargeable Batteries",
+        "price": 143,
+        "rating": 2.3,
+        "discount": 7,
+        "category": "Outdoor"
+    },
+    {
+        "name": "Bock Beer Mustard",
+        "price": 419,
+        "rating": 2.1,
+        "discount": 26,
+        "category": "Food - Condiments"
+    },
+    {
+        "name": "Portable Phone Charger",
+        "price": 256,
+        "rating": 4.1,
+        "discount": 37,
+        "category": "Accessories"
+    },
+    {
+        "name": "Travel Eye Mask with Ear Plugs",
+        "price": 103,
+        "rating": 4.4,
+        "discount": 40,
+        "category": "Travel"
+    },
+    {
+        "name": "Relaxed Fit Henley Shirt",
+        "price": 483,
+        "rating": null,
+        "discount": 6,
+        "category": "Clothing - Tops"
+    },
+    {
+        "name": "Travel Document Organizer",
+        "price": 158,
+        "rating": 4.2,
+        "discount": 5,
+        "category": "Travel"
+    },
+    {
+        "name": "Reusable Food Storage Bags",
+        "price": 130,
+        "rating": 4.9,
+        "discount": 27,
+        "category": "Kitchen"
+    },
+    {
+        "name": "High-Low Hem Tee",
+        "price": 157,
+        "rating": 2.4,
+        "discount": 28,
+        "category": "Clothing - Tops"
+    },
+    {
+        "name": "Scent Diffuser",
+        "price": 397,
+        "rating": 2.0,
+        "discount": 35,
+        "category": "Home"
+    },
+    {
+        "name": "Fitness Jump Rope with LCD Counter",
+        "price": 444,
+        "rating": 3.4,
+        "discount": 20,
+        "category": "Fitness"
+    },
+    {
+        "name": "Portable Air Conditioner",
+        "price": 460,
+        "rating": 3.6,
+        "discount": 2,
+        "category": "Home Appliances"
+    },
+    {
+        "name": "Digital Photo Frame",
+        "price": 195,
+        "rating": 1.7,
+        "discount": 21,
+        "category": "Home"
+    },
+    {
+        "name": "Roasted Red Pepper Hummus",
+        "price": 264,
+        "rating": null,
+        "discount": 6,
+        "category": "Food - Dips"
+    },
+    {
+        "name": "Pet Reflective Vest",
+        "price": 471,
+        "rating": 2.5,
+        "discount": 13,
+        "category": "Pets"
+    },
+    {
+        "name": "Ice Cube Tray with Lid",
+        "price": 208,
+        "rating": 1.5,
+        "discount": 28,
+        "category": "Kitchen"
+    },
+    {
+        "name": "Interactive Plush Toy",
+        "price": 457,
+        "rating": 2.4,
+        "discount": 25,
+        "category": "Toys"
+    },
+    {
+        "name": "Scented Candles",
+        "price": 162,
+        "rating": 4.4,
+        "discount": 19,
+        "category": "Home"
+    },
+    {
+        "name": "Classic Baseball Cap",
+        "price": 142,
+        "rating": 2.1,
+        "discount": 13,
+        "category": "Clothing - Accessories"
+    },
+    {
+        "name": "Lightweight Travel Backpack",
+        "price": 183,
+        "rating": 4.5,
+        "discount": 6,
+        "category": "Travel"
+    },
+    {
+        "name": "Fashionable Fanny Pack",
+        "price": 188,
+        "rating": 3.8,
+        "discount": 40,
+        "category": "Clothing - Accessories"
+    },
+    {
+        "name": "Steak Seasoning Rub",
+        "price": 217,
+        "rating": 4.1,
+        "discount": 4,
+        "category": "Food - Spices"
+    },
+    {
+        "name": "Phone Screen Protector",
+        "price": 68,
+        "rating": 3.0,
+        "discount": 32,
+        "category": "Accessories"
+    },
+    {
+        "name": "Raspberry Tart",
+        "price": 423,
+        "rating": 3.8,
+        "discount": 3,
+        "category": "Food - Baked Goods"
+    },
+    {
+        "name": "Pet Bed with Removable Cover",
+        "price": 265,
+        "rating": 1.9,
+        "discount": 5,
+        "category": "Pets"
+    },
+    {
+        "name": "Chocolate Chip Cliff Bars",
+        "price": 79,
+        "rating": 1.9,
+        "discount": 19,
+        "category": "Food - Snacks"
+    },
+    {
+        "name": "Roasted Red Pepper Hummus",
+        "price": 112,
+        "rating": 3.4,
+        "discount": 4,
+        "category": "Food - Dips"
+    },
+    {
+        "name": "Kale Salad with Lemon Dressing",
+        "price": 90,
+        "rating": 4.7,
+        "discount": 26,
+        "category": "Food - Salads"
+    },
+    {
+        "name": "Garlic and Herb Cream Cheese",
+        "price": 323,
+        "rating": 4.2,
+        "discount": 39,
+        "category": "Food - Dairy"
+    },
+    {
+        "name": "Strawberry Rhubarb Jam",
+        "price": 277,
+        "rating": 3.0,
+        "discount": 28,
+        "category": "Food - Condiments"
+    },
+    {
+        "name": "Basic V-Neck T-Shirt",
+        "price": 406,
+        "rating": 3.6,
+        "discount": 28,
+        "category": "Clothing - Tops"
+    },
+    {
+        "name": "Car Phone Mount",
+        "price": 301,
+        "rating": 3.2,
+        "discount": 20,
+        "category": "Automotive"
+    },
+    {
+        "name": "Teriyaki Salmon Fillets",
+        "price": 154,
+        "rating": 2.3,
+        "discount": 26,
+        "category": "Food - Seafood"
+    },
+    {
+        "name": "Faux Fur Coat",
+        "price": 147,
+        "rating": 3.3,
+        "discount": 20,
+        "category": "Clothing - Coats"
+    },
+    {
+        "name": "Smoked Paprika",
+        "price": 429,
+        "rating": 2.5,
+        "discount": 21,
+        "category": "Food - Spices"
+    },
+    {
+        "name": "Apricot Jam",
+        "price": 245,
+        "rating": 4.9,
+        "discount": 16,
+        "category": "Food - Condiments"
+    },
+    {
+        "name": "Peanut Butter Cookies",
+        "price": 459,
+        "rating": 2.1,
+        "discount": 38,
+        "category": "Food - Bakery"
+    },
+    {
+        "name": "Smart Plant Monitor",
+        "price": 280,
+        "rating": 4.5,
+        "discount": 34,
+        "category": "Garden"
+    },
+    {
+        "name": "Garlic Parmesan Roasted Nuts",
+        "price": 57,
+        "rating": 1.2,
+        "discount": 15,
+        "category": "Food - Nuts"
+    },
+    {
+        "name": "Pocket Blanket",
+        "price": 348,
+        "rating": 3.2,
+        "discount": 39,
+        "category": "Outdoor"
+    },
+    {
+        "name": "Kitchen Scale",
+        "price": 436,
+        "rating": null,
+        "discount": 39,
+        "category": "Kitchen"
+    },
+    {
+        "name": "Herbal Tea Set",
+        "price": 308,
+        "rating": 1.6,
+        "discount": 36,
+        "category": "Food"
+    },
+    {
+        "name": "Organic Coconut Oil",
+        "price": 107,
+        "rating": 1.1,
+        "discount": 15,
+        "category": "Food - Oils"
+    },
+    {
+        "name": "Sweet Pea Hummus",
+        "price": 212,
+        "rating": 3.1,
+        "discount": 37,
+        "category": "Food - Dips"
+    },
+    {
+        "name": "Mini Air Hockey Table",
+        "price": 356,
+        "rating": null,
+        "discount": 19,
+        "category": "Toys"
+    },
+    {
+        "name": "Pork Tenderloin",
+        "price": 480,
+        "rating": 4.0,
+        "discount": 8,
+        "category": "Food - Meat"
+    },
+    {
+        "name": "Oven Mitts",
+        "price": 394,
+        "rating": 2.8,
+        "discount": 12,
+        "category": "Kitchen"
+    },
+    {
+        "name": "Oven-Baked Cheese Crisps",
+        "price": 138,
+        "rating": 4.6,
+        "discount": 22,
+        "category": "Food - Snacks"
+    },
+    {
+        "name": "Chocolate Dipped Fruit",
+        "price": 432,
+        "rating": 4.7,
+        "discount": 14,
+        "category": "Food - Snacks"
+    },
+    {
+        "name": "Ceramic Knife Set",
+        "price": 141,
+        "rating": 1.6,
+        "discount": 1,
+        "category": "Kitchen"
+    },
+    {
+        "name": "Magnetic Whiteboard",
+        "price": 411,
+        "rating": 2.5,
+        "discount": 12,
+        "category": "Office"
+    },
+    {
+        "name": "Personal Security Alarm Keychain",
+        "price": 407,
+        "rating": 1.6,
+        "discount": 1,
+        "category": "Safety"
+    },
+    {
+        "name": "Frozen Acai Bowl",
+        "price": 345,
+        "rating": 2.7,
+        "discount": 22,
+        "category": "Food - Frozen Foods"
+    },
+    {
+        "name": "Folding Pocket Knife",
+        "price": 84,
+        "rating": 3.4,
+        "discount": 26,
+        "category": "Tools"
+    },
+    {
+        "name": "Garden Tool Belt",
+        "price": 306,
+        "rating": 3.8,
+        "discount": 13,
+        "category": "Garden"
+    },
+    {
+        "name": "Camping Chair with Cooler",
+        "price": 69,
+        "rating": null,
+        "discount": 22,
+        "category": "Outdoor"
+    },
+    {
+        "name": "Board Game",
+        "price": 83,
+        "rating": 4.0,
+        "discount": 11,
+        "category": "Toys"
+    },
+    {
+        "name": "Thai Basil Fried Rice",
+        "price": 496,
+        "rating": 1.1,
+        "discount": 32,
+        "category": "Food - Frozen"
+    },
+    {
+        "name": "Sweet BBQ Dipping Sauce",
+        "price": 353,
+        "rating": 3.2,
+        "discount": 8,
+        "category": "Food - Condiments"
+    },
+    {
+        "name": "Portable Massage Gun",
+        "price": 141,
+        "rating": 4.0,
+        "discount": 20,
+        "category": "Health"
+    },
+    {
+        "name": "Collapsible Pet Dog Bowl",
+        "price": 133,
+        "rating": 2.4,
+        "discount": 14,
+        "category": "Pets"
+    },
+    {
+        "name": "Graphic Hoodie",
+        "price": 245,
+        "rating": 1.3,
+        "discount": 24,
+        "category": "Clothing - Outerwear"
+    },
+    {
+        "name": "Almond Flour Bread Mix",
+        "price": 119,
+        "rating": 2.7,
+        "discount": 12,
+        "category": "Food - Baking"
+    },
+    {
+        "name": "Lemon Herb Quinoa",
+        "price": 366,
+        "rating": 3.7,
+        "discount": 8,
+        "category": "Food - Grains"
+    },
+    {
+        "name": "Dog Frisbee Toy",
+        "price": 90,
+        "rating": 1.8,
+        "discount": 33,
+        "category": "Pets"
+    },
+    {
+        "name": "Smartphone Projector",
+        "price": 381,
+        "rating": 2.5,
+        "discount": 37,
+        "category": "Electronics"
+    },
+    {
+        "name": "Kale Salad with Lemon Dressing",
+        "price": 386,
+        "rating": 3.0,
+        "discount": 4,
+        "category": "Food - Salads"
+    },
+    {
+        "name": "Noise-Canceling Earbuds",
+        "price": 222,
+        "rating": 1.0,
+        "discount": 12,
+        "category": "Audio"
+    },
+    {
+        "name": "Fall-Themed Table Runner",
+        "price": 388,
+        "rating": 2.3,
+        "discount": 17,
+        "category": "Home"
+    },
+    {
+        "name": "Garlic Herb Marinade",
+        "price": 453,
+        "rating": 2.0,
+        "discount": 14,
+        "category": "Food - Marinades"
+    },
+    {
+        "name": "Lemon Dill Salmon",
+        "price": 453,
+        "rating": 1.0,
+        "discount": 16,
+        "category": "Food - Seafood"
+    },
+    {
+        "name": "Balsamic Salad Dressing",
+        "price": 218,
+        "rating": 3.2,
+        "discount": 23,
+        "category": "Food - Deli"
+    },
+    {
+        "name": "Traditional Hummus",
+        "price": 378,
+        "rating": 2.8,
+        "discount": 7,
+        "category": "Food - Dips"
+    },
+    {
+        "name": "Wireless Security Camera",
+        "price": 373,
+        "rating": 2.9,
+        "discount": 10,
+        "category": "Home"
+    },
+    {
+        "name": "Coconut Chia Pudding",
+        "price": 384,
+        "rating": null,
+        "discount": 40,
+        "category": "Food - Dairy"
+    },
+    {
+        "name": "Vegetarian Chili",
+        "price": 174,
+        "rating": 3.2,
+        "discount": 24,
+        "category": "Food - Canned Goods"
+    },
+    {
+        "name": "Hand Mixer",
+        "price": 70,
+        "rating": 4.0,
+        "discount": 8,
+        "category": "Kitchen"
+    },
+    {
+        "name": "Frozen Vegetarian Pizza",
+        "price": 132,
+        "rating": 1.8,
+        "discount": 37,
+        "category": "Food - Frozen Meals"
+    },
+    {
+        "name": "Memory Foam Mattress Pad",
+        "price": 491,
+        "rating": 2.5,
+        "discount": 1,
+        "category": "Home"
+    },
+    {
+        "name": "Ethically-Sourced Coffee Beans",
+        "price": 126,
+        "rating": 4.9,
+        "discount": 34,
+        "category": "Food - Beverages"
+    },
+    {
+        "name": "Pet Camera with Treat Dispenser",
+        "price": 498,
+        "rating": 1.0,
+        "discount": 16,
+        "category": "Pets"
+    },
+    {
+        "name": "French Onion Dip",
+        "price": 213,
+        "rating": 4.0,
+        "discount": 17,
+        "category": "Food - Condiments"
+    },
+    {
+        "name": "Tahini",
+        "price": 242,
+        "rating": 4.2,
+        "discount": 8,
+        "category": "Food - Condiments"
+    },
+    {
+        "name": "Cheddar Cheese Crackers",
+        "price": 134,
+        "rating": 1.5,
+        "discount": 29,
+        "category": "Food - Snacks"
+    },
+    {
+        "name": "Over-Ear Headphones",
+        "price": 428,
+        "rating": 3.3,
+        "discount": 8,
+        "category": "Audio"
+    },
+    {
+        "name": "Crew Neck Sweater",
+        "price": 321,
+        "rating": 4.7,
+        "discount": 30,
+        "category": "Clothing - Sweaters"
+    },
+    {
+        "name": "Plant Growing Kit",
+        "price": 194,
+        "rating": 1.0,
+        "discount": 10,
+        "category": "Garden"
+    },
+    {
+        "name": "Portable Hammock",
+        "price": 330,
+        "rating": 2.2,
+        "discount": 16,
+        "category": "Outdoor"
+    },
+    {
+        "name": "Sweet Potato Mash",
+        "price": 369,
+        "rating": 1.7,
+        "discount": 34,
+        "category": "Food - Frozen Foods"
+    },
+    {
+        "name": "Dog Collar",
+        "price": 123,
+        "rating": null,
+        "discount": 35,
+        "category": "Pets"
+    },
+    {
+        "name": "Body Pillow Case",
+        "price": 286,
+        "rating": 2.8,
+        "discount": 26,
+        "category": "Home"
+    },
+    {
+        "name": "Fashionable Belt Bag",
+        "price": 443,
+        "rating": 2.8,
+        "discount": 6,
+        "category": "Accessories"
+    },
+    {
+        "name": "Himalayan Salt Grinder",
+        "price": 314,
+        "rating": 4.6,
+        "discount": 14,
+        "category": "Food - Spices"
+    },
+    {
+        "name": "Portable Bluetooth Keyboard",
+        "price": 297,
+        "rating": 4.2,
+        "discount": 18,
+        "category": "Electronics"
+    },
+    {
+        "name": "Organic Italian Seasoning",
+        "price": 122,
+        "rating": 1.3,
+        "discount": 23,
+        "category": "Food - Spices"
+    },
+    {
+        "name": "Pistachios",
+        "price": 237,
+        "rating": 1.8,
+        "discount": 3,
+        "category": "Food - Nuts"
+    },
+    {
+        "name": "Garden Hoses with Expandable Features",
+        "price": 413,
+        "rating": 4.1,
+        "discount": 19,
+        "category": "Garden"
+    },
+    {
+        "name": "Wooden Toy Train Set",
+        "price": 477,
+        "rating": 2.6,
+        "discount": 26,
+        "category": "Toys"
+    },
+    {
+        "name": "Mushroom Soup (canned)",
+        "price": 364,
+        "rating": 1.2,
+        "discount": 31,
+        "category": "Food - Canned Goods"
+    },
+    {
+        "name": "Hibiscus Herbal Tea",
+        "price": 107,
+        "rating": 4.2,
+        "discount": 37,
+        "category": "Food - Beverages"
+    },
+    {
+        "name": "Low-Fat Yogurt",
+        "price": 384,
+        "rating": 1.8,
+        "discount": 26,
+        "category": "Food - Dairy"
+    },
+    {
+        "name": "Summer Tank Dress",
+        "price": 77,
+        "rating": 1.5,
+        "discount": 39,
+        "category": "Clothing - Dresses"
+    },
+    {
+        "name": "Wireless Charging Pad",
+        "price": 230,
+        "rating": 3.3,
+        "discount": 33,
+        "category": "Accessories"
+    },
+    {
+        "name": "Electric Butter Churn",
+        "price": 482,
+        "rating": 1.4,
+        "discount": 35,
+        "category": "Kitchen"
+    },
+    {
+        "name": "Vegan Protein Powder",
+        "price": 65,
+        "rating": 4.6,
+        "discount": 40,
+        "category": "Health"
+    },
+    {
+        "name": "Tomato Paste",
+        "price": 297,
+        "rating": 3.2,
+        "discount": 10,
+        "category": "Food - Canned Goods"
+    },
+    {
+        "name": "Crispy Onion Rings",
+        "price": 64,
+        "rating": 4.9,
+        "discount": 40,
+        "category": "Food - Frozen Foods"
+    },
+    {
+        "name": "Gaming Headset",
+        "price": 498,
+        "rating": 2.8,
+        "discount": 26,
+        "category": "Gaming"
+    },
+    {
+        "name": "Lentil Soup",
+        "price": 416,
+        "rating": 3.1,
+        "discount": 38,
+        "category": "Food - Canned Goods"
+    },
+    {
+        "name": "Organic Quinoa",
+        "price": 55,
+        "rating": 4.3,
+        "discount": 10,
+        "category": "Food - Grains"
+    },
+    {
+        "name": "Organic Spinach",
+        "price": 256,
+        "rating": 2.7,
+        "discount": 20,
+        "category": "Food - Produce"
+    },
+    {
+        "name": "Feta Cheese Crumbles",
+        "price": 482,
+        "rating": 4.7,
+        "discount": 17,
+        "category": "Food - Dairy"
+    },
+    {
+        "name": "Thai Peanut Noodles",
+        "price": 392,
+        "rating": 1.3,
+        "discount": 16,
+        "category": "Food - Pasta"
+    },
+    {
+        "name": "Pork Tenderloin",
+        "price": 251,
+        "rating": 1.9,
+        "discount": 21,
+        "category": "Food - Meat"
+    },
+    {
+        "name": "Vegetable Samosas",
+        "price": 372,
+        "rating": 1.8,
+        "discount": 9,
+        "category": "Food - Frozen"
+    },
+    {
+        "name": "Shoe Organizer",
+        "price": 465,
+        "rating": 2.3,
+        "discount": 28,
+        "category": "Home"
+    },
+    {
+        "name": "Gardening Kneeler and Seat",
+        "price": 225,
+        "rating": 1.7,
+        "discount": 0,
+        "category": "Garden"
+    },
+    {
+        "name": "Lasagna Noodles",
+        "price": 168,
+        "rating": 1.9,
+        "discount": 21,
+        "category": "Food - Pasta"
+    },
+    {
+        "name": "Pretzel Bites",
+        "price": 104,
+        "rating": 4.7,
+        "discount": 31,
+        "category": "Food - Snacks"
+    },
+    {
+        "name": "Chocolate Chip Energy Balls",
+        "price": 112,
+        "rating": 1.9,
+        "discount": 32,
+        "category": "Food - Snacks"
+    },
+    {
+        "name": "Stylish Combat Boots",
+        "price": 248,
+        "rating": 1.1,
+        "discount": 21,
+        "category": "Clothing - Shoes"
+    },
+    {
+        "name": "Elderberry Syrup Kit",
+        "price": 277,
+        "rating": 3.8,
+        "discount": 9,
+        "category": "Health"
+    },
+    {
+        "name": "Almond Flour Bread Mix",
+        "price": 303,
+        "rating": 1.6,
+        "discount": 10,
+        "category": "Food - Baking"
+    },
+    {
+        "name": "Vegan Tacos",
+        "price": 445,
+        "rating": 3.1,
+        "discount": 4,
+        "category": "Food - Frozen Foods"
+    },
+    {
+        "name": "Ice Pack",
+        "price": 322,
+        "rating": 3.4,
+        "discount": 5,
+        "category": "Health"
+    },
+    {
+        "name": "Chunky Knit Sweater",
+        "price": 240,
+        "rating": 4.1,
+        "discount": 16,
+        "category": "Clothing - Tops"
+    },
+    {
+        "name": "Samoas Cookie Mix",
+        "price": 454,
+        "rating": 3.8,
+        "discount": 12,
+        "category": "Food - Baking"
+    },
+    {
+        "name": "Popcorn Chicken",
+        "price": 309,
+        "rating": 4.1,
+        "discount": 15,
+        "category": "Food - Frozen"
+    },
+    {
+        "name": "Smartphone Photography Tripod",
+        "price": 118,
+        "rating": 2.7,
+        "discount": 22,
+        "category": "Electronics"
+    },
+    {
+        "name": "Mango Chia Pudding",
+        "price": 443,
+        "rating": 4.0,
+        "discount": 24,
+        "category": "Food - Snacks"
+    },
+    {
+        "name": "Blue Corn Tortilla Chips",
+        "price": 74,
+        "rating": 2.0,
+        "discount": 11,
+        "category": "Food - Snacks"
+    },
+    {
+        "name": "Savory Rice Cakes",
+        "price": 233,
+        "rating": 3.1,
+        "discount": 33,
+        "category": "Food - Snacks"
+    },
+    {
+        "name": "Chicken Breasts",
+        "price": 163,
+        "rating": 4.3,
+        "discount": 25,
+        "category": "Food - Meat"
+    },
+    {
+        "name": "Pasta Maker",
+        "price": 106,
+        "rating": 1.4,
+        "discount": 0,
+        "category": "Kitchen"
+    },
+    {
+        "name": "Apple Cinnamon Granola",
+        "price": 56,
+        "rating": 3.4,
+        "discount": 16,
+        "category": "Food - Breakfast"
+    },
+    {
+        "name": "Vegan Mac & Cheese",
+        "price": 125,
+        "rating": 3.4,
+        "discount": 32,
+        "category": "Food - Frozen"
+    },
+    {
+        "name": "Mini Indoor Hydroponic Garden",
+        "price": 497,
+        "rating": 1.5,
+        "discount": 6,
+        "category": "Garden"
+    },
+    {
+        "name": "Quinoa and Kale Salad Kit",
+        "price": 472,
+        "rating": 2.9,
+        "discount": 11,
+        "category": "Food - Salads"
+    },
+    {
+        "name": "Kids' Building Blocks",
+        "price": 251,
+        "rating": 4.4,
+        "discount": 2,
+        "category": "Toys"
+    },
+    {
+        "name": "Essential Oils Diffuser Necklace",
+        "price": 168,
+        "rating": 1.5,
+        "discount": 40,
+        "category": "Health"
+    },
+    {
+        "name": "Compact Shoe Rack",
+        "price": 207,
+        "rating": 1.9,
+        "discount": 6,
+        "category": "Home"
+    },
+    {
+        "name": "Banana Peanut Butter Smoothie",
+        "price": 459,
+        "rating": 4.8,
+        "discount": 5,
+        "category": "Food - Frozen Foods"
+    },
+    {
+        "name": "Non-Stick Baking Sheet",
+        "price": 298,
+        "rating": 3.7,
+        "discount": 27,
+        "category": "Kitchen"
+    },
+    {
+        "name": "Ultra-Thin Laptop Sleeve",
+        "price": 281,
+        "rating": 3.5,
+        "discount": 8,
+        "category": "Accessories"
+    },
+    {
+        "name": "Travel Jewelry Organizer",
+        "price": 401,
+        "rating": 5.0,
+        "discount": 9,
+        "category": "Accessories"
+    },
+    {
+        "name": "Electric Griddle with Removable Plates",
+        "price": 119,
+        "rating": 3.5,
+        "discount": 17,
+        "category": "Kitchen"
+    },
+    {
+        "name": "Wild Rice Pilaf",
+        "price": 209,
+        "rating": 3.9,
+        "discount": 29,
+        "category": "Food - Grains"
+    },
+    {
+        "name": "Sea Salt Caramel Popcorn",
+        "price": 459,
+        "rating": 2.9,
+        "discount": 39,
+        "category": "Food - Snacks"
+    },
+    {
+        "name": "Garden Hose Reel",
+        "price": 65,
+        "rating": 1.0,
+        "discount": 12,
+        "category": "Garden"
+    },
+    {
+        "name": "Caramel Apple Chips",
+        "price": 123,
+        "rating": 4.0,
+        "discount": 19,
+        "category": "Food - Snacks"
+    },
+    {
+        "name": "Marinara Sauce",
+        "price": 74,
+        "rating": 2.7,
+        "discount": 30,
+        "category": "Food - Condiments"
+    },
+    {
+        "name": "Teriyaki Sauce",
+        "price": 55,
+        "rating": 1.3,
+        "discount": 40,
+        "category": "Food - Condiments"
+    },
+    {
+        "name": "LED Strip Light Kit",
+        "price": 296,
+        "rating": 2.5,
+        "discount": 12,
+        "category": "Home"
+    },
+    {
+        "name": "LED Flashlight with Rechargeable Batteries",
+        "price": 220,
+        "rating": 3.7,
+        "discount": 15,
+        "category": "Outdoor"
+    },
+    {
+        "name": "Chocolate Raspberry Tart",
+        "price": 381,
+        "rating": 4.2,
+        "discount": 25,
+        "category": "Food - Bakery"
+    },
+    {
+        "name": "Beef Stroganoff Mix",
+        "price": 360,
+        "rating": 1.6,
+        "discount": 15,
+        "category": "Food - Meal Kits"
+    },
+    {
+        "name": "Incense Holder",
+        "price": 496,
+        "rating": 2.8,
+        "discount": 29,
+        "category": "Home"
+    },
+    {
+        "name": "Car Windshield Sun Shade",
+        "price": 239,
+        "rating": 1.3,
+        "discount": 3,
+        "category": "Automotive"
+    },
+    {
+        "name": "Organic Sweet Potatoes",
+        "price": 266,
+        "rating": 2.0,
+        "discount": 21,
+        "category": "Food - Produce"
+    },
+    {
+        "name": "Cordless Water Flosser",
+        "price": 214,
+        "rating": 4.9,
+        "discount": 29,
+        "category": "Health"
+    },
+    {
+        "name": "Electric Hot Pot",
+        "price": 223,
+        "rating": 4.3,
+        "discount": 5,
+        "category": "Kitchen"
+    },
+    {
+        "name": "Smart Water Bottle with Hydration Reminder",
+        "price": 89,
+        "rating": 1.4,
+        "discount": 16,
+        "category": "Fitness"
+    },
+    {
+        "name": "Woven Storage Baskets",
+        "price": 152,
+        "rating": 1.2,
+        "discount": 33,
+        "category": "Home"
+    },
+    {
+        "name": "Car Diagnostic Scanner",
+        "price": 73,
+        "rating": 1.9,
+        "discount": 14,
+        "category": "Automotive"
+    },
+    {
+        "name": "Personal Safety Alarm",
+        "price": 314,
+        "rating": 3.2,
+        "discount": 1,
+        "category": "Safety"
+    },
+    {
+        "name": "Printed Maxi Skirt",
+        "price": 172,
+        "rating": 1.9,
+        "discount": 13,
+        "category": "Clothing - Skirts"
+    },
+    {
+        "name": "Pumpkin Spice Cookies",
+        "price": 343,
+        "rating": 2.0,
+        "discount": 39,
+        "category": "Food - Bakery"
+    },
+    {
+        "name": "Strawberry Banana Smoothie Pack",
+        "price": 273,
+        "rating": 2.7,
+        "discount": 39,
+        "category": "Food - Frozen"
+    },
+    {
+        "name": "Lemon Lime Sparkling Water",
+        "price": 451,
+        "rating": 4.1,
+        "discount": 18,
+        "category": "Food - Beverages"
+    },
+    {
+        "name": "Insulated Coffee Mug",
+        "price": 441,
+        "rating": 1.2,
+        "discount": 1,
+        "category": "Kitchen"
+    },
+    {
+        "name": "Memory Foam Mattress Pad",
+        "price": 441,
+        "rating": 2.6,
+        "discount": 16,
+        "category": "Home"
+    },
+    {
+        "name": "Buffalo Chicken Wraps",
+        "price": 170,
+        "rating": 3.5,
+        "discount": 25,
+        "category": "Food - Prepared Meals"
+    },
+    {
+        "name": "Stuffed Bell Peppers",
+        "price": 362,
+        "rating": 3.9,
+        "discount": 16,
+        "category": "Food - Frozen Meals"
+    },
+    {
+        "name": "Raspberry Vanilla Greek Yogurt",
+        "price": 318,
+        "rating": 3.8,
+        "discount": 12,
+        "category": "Food - Dairy"
+    },
+    {
+        "name": "Heat-Resistant Silicone Mat",
+        "price": 339,
+        "rating": 4.6,
+        "discount": 17,
+        "category": "Kitchen"
+    },
+    {
+        "name": "Magnetic Whiteboard",
+        "price": 388,
+        "rating": 1.7,
+        "discount": 5,
+        "category": "Office"
+    },
+    {
+        "name": "Mini Indoor Herb Garden Kit",
+        "price": 169,
+        "rating": 3.8,
+        "discount": 8,
+        "category": "Garden"
+    },
+    {
+        "name": "Savory Oats",
+        "price": 366,
+        "rating": 4.5,
+        "discount": 6,
+        "category": "Food - Breakfast"
+    },
+    {
+        "name": "Mini Air Hockey Table",
+        "price": 249,
+        "rating": 4.5,
+        "discount": 2,
+        "category": "Toys"
+    },
+    {
+        "name": "Grass Fed Beef Patties",
+        "price": 458,
+        "rating": 2.5,
+        "discount": 33,
+        "category": "Food - Meat"
+    },
+    {
+        "name": "Pecan Nuts",
+        "price": 150,
+        "rating": 4.9,
+        "discount": 5,
+        "category": "Food - Snacks"
+    },
+    {
+        "name": "Green Tea Matcha Powder",
+        "price": 241,
+        "rating": 4.0,
+        "discount": 29,
+        "category": "Food - Beverages"
+    },
+    {
+        "name": "Animal Paw Print Soap Dispenser",
+        "price": 412,
+        "rating": 2.6,
+        "discount": 31,
+        "category": "Home"
+    },
+    {
+        "name": "Backpack",
+        "price": 359,
+        "rating": 3.4,
+        "discount": 33,
+        "category": "Accessories"
+    },
+    {
+        "name": "Self-Massaging Pillow",
+        "price": 451,
+        "rating": 1.7,
+        "discount": 20,
+        "category": "Health"
+    },
+    {
+        "name": "Spiced Pumpkin Soup",
+        "price": 235,
+        "rating": null,
+        "discount": 37,
+        "category": "Food - Canned Soups"
+    },
+    {
+        "name": "Plant Growing Kit",
+        "price": 293,
+        "rating": 2.5,
+        "discount": 3,
+        "category": "Garden"
+    },
+    {
+        "name": "Rustic Italian Bread",
+        "price": 380,
+        "rating": 3.8,
+        "discount": 39,
+        "category": "Food - Bakery"
+    },
+    {
+        "name": "Pumpkin Spice Muffins",
+        "price": 135,
+        "rating": 2.6,
+        "discount": 19,
+        "category": "Food - Bakery"
+    },
+    {
+        "name": "Organic Coconut Flakes",
+        "price": 403,
+        "rating": null,
+        "discount": 17,
+        "category": "Food - Baking"
+    },
+    {
+        "name": "Sunflower Seeds",
+        "price": 205,
+        "rating": 3.0,
+        "discount": 16,
+        "category": "Food - Nuts"
+    },
+    {
+        "name": "Magnetic Screen Door",
+        "price": 416,
+        "rating": 1.6,
+        "discount": 26,
+        "category": "Outdoor"
+    },
+    {
+        "name": "Pork Tenderloin",
+        "price": 187,
+        "rating": 3.7,
+        "discount": 21,
+        "category": "Food - Meat"
+    },
+    {
+        "name": "Portable Jump Starter",
+        "price": 385,
+        "rating": 2.2,
+        "discount": 30,
+        "category": "Automotive"
+    },
+    {
+        "name": "Cork Yoga Mat",
+        "price": 386,
+        "rating": 2.9,
+        "discount": 5,
+        "category": "Fitness"
+    },
+    {
+        "name": "Pet Hair Vacuum Cleaner Attachment",
+        "price": 411,
+        "rating": 3.7,
+        "discount": 16,
+        "category": "Pets"
+    },
+    {
+        "name": "Vegetable Pizza Rolls",
+        "price": 350,
+        "rating": 3.1,
+        "discount": 39,
+        "category": "Food - Frozen Foods"
+    },
+    {
+        "name": "Suede Ankle Booties",
+        "price": 108,
+        "rating": 2.6,
+        "discount": 28,
+        "category": "Clothing - Footwear"
+    },
+    {
+        "name": "Two-Tier Fruit Basket",
+        "price": 275,
+        "rating": 3.8,
+        "discount": 17,
+        "category": "Home"
+    },
+    {
+        "name": "Pet Caress Brush",
+        "price": 364,
+        "rating": 2.4,
+        "discount": 4,
+        "category": "Pets"
+    },
+    {
+        "name": "Vegetarian Chili",
+        "price": 174,
+        "rating": 3.5,
+        "discount": 23,
+        "category": "Food - Canned Goods"
+    },
+    {
+        "name": "Digital Stopwatch Timer",
+        "price": 307,
+        "rating": 1.2,
+        "discount": 20,
+        "category": "Fitness"
+    },
+    {
+        "name": "Beef Tacos",
+        "price": 234,
+        "rating": 4.8,
+        "discount": 9,
+        "category": "Food - Meat"
+    },
+    {
+        "name": "Thai Peanut Dressing",
+        "price": 266,
+        "rating": 2.7,
+        "discount": 0,
+        "category": "Food - Condiments"
+    },
+    {
+        "name": "Dried Mango Slices",
+        "price": 96,
+        "rating": 4.1,
+        "discount": 37,
+        "category": "Food - Snacks"
+    },
+    {
+        "name": "Miso Soup Starter",
+        "price": 238,
+        "rating": 4.7,
+        "discount": 25,
+        "category": "Food - Soups"
+    },
+    {
+        "name": "Walnut Halves",
+        "price": 317,
+        "rating": 4.3,
+        "discount": 18,
+        "category": "Food - Nuts"
+    },
+    {
+        "name": "Maple Syrup",
+        "price": 423,
+        "rating": 2.5,
+        "discount": 15,
+        "category": "Food - Condiments"
+    },
+    {
+        "name": "Organic Blueberries",
+        "price": 374,
+        "rating": 1.4,
+        "discount": 26,
+        "category": "Food - Fruits"
+    },
+    {
+        "name": "Pineapple Teriyaki Chicken Mix",
+        "price": 407,
+        "rating": 4.0,
+        "discount": 28,
+        "category": "Food - Meat"
+    },
+    {
+        "name": "Silicone Baking Cups",
+        "price": 121,
+        "rating": 4.9,
+        "discount": 12,
+        "category": "Kitchen"
+    },
+    {
+        "name": "Garden Hoses with Expandable Features",
+        "price": 207,
+        "rating": 2.4,
+        "discount": 40,
+        "category": "Garden"
+    },
+    {
+        "name": "Set of Measuring Spoons",
+        "price": 378,
+        "rating": 4.0,
+        "discount": 38,
+        "category": "Kitchen"
+    },
+    {
+        "name": "Pepper Jack Cheese Slices",
+        "price": 179,
+        "rating": 4.4,
+        "discount": 32,
+        "category": "Food - Dairy"
+    },
+    {
+        "name": "Stick Vacuums Cleaner",
+        "price": 387,
+        "rating": 3.9,
+        "discount": 34,
+        "category": "Home Appliances"
+    },
+    {
+        "name": "Garlic & Herb Goat Cheese",
+        "price": 313,
+        "rating": 2.0,
+        "discount": 7,
+        "category": "Food - Dairy"
+    },
+    {
+        "name": "Wall Planner",
+        "price": 251,
+        "rating": 3.3,
+        "discount": 32,
+        "category": "Office"
+    },
+    {
+        "name": "Whole Roasted Chicken",
+        "price": 53,
+        "rating": 2.8,
+        "discount": 7,
+        "category": "Food - Meats"
+    },
+    {
+        "name": "Non-Stick Baking Sheet",
+        "price": 213,
+        "rating": 2.9,
+        "discount": 31,
+        "category": "Kitchen"
+    },
+    {
+        "name": "Kale Salad Kit",
+        "price": 492,
+        "rating": 2.6,
+        "discount": 14,
+        "category": "Food - Salads"
+    },
+    {
+        "name": "USB Desk Fan",
+        "price": 285,
+        "rating": 1.4,
+        "discount": 28,
+        "category": "Home"
+    },
+    {
+        "name": "Zesty Garlic Hummus",
+        "price": 113,
+        "rating": 4.1,
+        "discount": 27,
+        "category": "Food - Snacks"
+    },
+    {
+        "name": "Honeycrisp Apple Chips",
+        "price": 170,
+        "rating": 1.8,
+        "discount": 39,
+        "category": "Food - Snacks"
+    },
+    {
+        "name": "Apple Cinnamon Oatmeal",
+        "price": 447,
+        "rating": null,
+        "discount": 31,
+        "category": "Food - Breakfast"
+    },
+    {
+        "name": "High-Waisted Skirt",
+        "price": 293,
+        "rating": 3.9,
+        "discount": 14,
+        "category": "Clothing - Bottoms"
+    },
+    {
+        "name": "Eco-Friendly Notepad",
+        "price": 269,
+        "rating": 3.6,
+        "discount": 34,
+        "category": "Office"
+    },
+    {
+        "name": "Chili Con Carne Mix",
+        "price": 403,
+        "rating": 2.3,
+        "discount": 9,
+        "category": "Food - Spices & Seasonings"
+    },
+    {
+        "name": "Frozen Salmon Filets",
+        "price": 61,
+        "rating": 4.3,
+        "discount": 12,
+        "category": "Food - Seafood"
+    },
+    {
+        "name": "Portable Air Purifier",
+        "price": 488,
+        "rating": 3.9,
+        "discount": 24,
+        "category": "Health"
+    },
+    {
+        "name": "Jalapeño Cornbread",
+        "price": 316,
+        "rating": 2.0,
+        "discount": 38,
+        "category": "Food - Bakery"
+    },
+    {
+        "name": "Trendy Bomber Jacket",
+        "price": 120,
+        "rating": 1.6,
+        "discount": 28,
+        "category": "Clothing - Outerwear"
+    },
+    {
+        "name": "Stylish Wide-Leg Trousers",
+        "price": 484,
+        "rating": 2.6,
+        "discount": 4,
+        "category": "Clothing - Bottoms"
+    },
+    {
+        "name": "Oven-Baked Chicken Tenders",
+        "price": 422,
+        "rating": 4.4,
+        "discount": 30,
+        "category": "Food - Meat"
+    },
+    {
+        "name": "Chocolate Dipped Fruit",
+        "price": 58,
+        "rating": 2.2,
+        "discount": 8,
+        "category": "Food - Snacks"
+    },
+    {
+        "name": "Luxury Memory Foam Mattress Topper",
+        "price": 293,
+        "rating": 4.8,
+        "discount": 20,
+        "category": "Home"
+    },
+    {
+        "name": "Ceramic Cookware Set",
+        "price": 177,
+        "rating": null,
+        "discount": 28,
+        "category": "Kitchen"
+    },
+    {
+        "name": "Shower Curtain Hooks",
+        "price": 321,
+        "rating": 1.0,
+        "discount": 31,
+        "category": "Home"
+    },
+    {
+        "name": "Stuffed Peppers with Quinoa",
+        "price": 304,
+        "rating": 1.2,
+        "discount": 39,
+        "category": "Food - Prepared Meals"
+    },
+    {
+        "name": "Bodyweight Resistance Bands",
+        "price": 77,
+        "rating": 3.9,
+        "discount": 10,
+        "category": "Fitness"
+    },
+    {
+        "name": "Lentils",
+        "price": 66,
+        "rating": 1.0,
+        "discount": 18,
+        "category": "Food - Grains"
+    },
+    {
+        "name": "Cooking Utensil Set",
+        "price": 221,
+        "rating": 2.8,
+        "discount": 36,
+        "category": "Kitchen"
+    },
+    {
+        "name": "Cauliflower Pizza Crust",
+        "price": 101,
+        "rating": 4.0,
+        "discount": 5,
+        "category": "Food - Frozen Foods"
+    },
+    {
+        "name": "Coconut Milk",
+        "price": 487,
+        "rating": 2.4,
+        "discount": 39,
+        "category": "Food - Canned Goods"
+    },
+    {
+        "name": "Kale Salad with Lemon Dressing",
+        "price": 339,
+        "rating": null,
+        "discount": 9,
+        "category": "Food - Salads"
+    },
+    {
+        "name": "Kitchen Knife Sharpening System",
+        "price": 499,
+        "rating": 1.7,
+        "discount": 22,
+        "category": "Kitchen"
+    },
+    {
+        "name": "Maple Bacon Popcorn",
+        "price": 161,
+        "rating": 4.7,
+        "discount": 0,
+        "category": "Food - Snacks"
+    },
+    {
+        "name": "Wall-Mounted Bookshelf",
+        "price": 81,
+        "rating": 1.6,
+        "discount": 31,
+        "category": "Home"
+    },
+    {
+        "name": "Over-the-Door Hooks",
+        "price": 111,
+        "rating": 2.6,
+        "discount": 11,
+        "category": "Home"
+    },
+    {
+        "name": "Vegetable Chips",
+        "price": 445,
+        "rating": 2.6,
+        "discount": 32,
+        "category": "Food - Snacks"
+    },
+    {
+        "name": "Adjustable Pet Feeder",
+        "price": 84,
+        "rating": 4.4,
+        "discount": 15,
+        "category": "Pets"
+    },
+    {
+        "name": "Portable Hammock",
+        "price": 80,
+        "rating": 1.7,
+        "discount": 7,
+        "category": "Outdoor"
+    },
+    {
+        "name": "Portable Blender",
+        "price": 223,
+        "rating": 3.0,
+        "discount": 28,
+        "category": "Kitchen"
+    },
+    {
+        "name": "Beef Enchilada Casserole",
+        "price": 291,
+        "rating": 1.4,
+        "discount": 8,
+        "category": "Food - Prepared Meals"
+    },
+    {
+        "name": "Pet Travel Bed",
+        "price": 493,
+        "rating": 3.7,
+        "discount": 31,
+        "category": "Pets"
+    },
+    {
+        "name": "Hiking Boots",
+        "price": 187,
+        "rating": 2.8,
+        "discount": 24,
+        "category": "Footwear"
+    },
+    {
+        "name": "Luxury Bath Salts",
+        "price": 435,
+        "rating": 1.2,
+        "discount": 17,
+        "category": "Beauty"
+    },
+    {
+        "name": "Spicy Roasted Nuts",
+        "price": 467,
+        "rating": 4.1,
+        "discount": 7,
+        "category": "Food - Snacks"
+    },
+    {
+        "name": "Homestyle Chicken Noodle Soup",
+        "price": 244,
+        "rating": 4.9,
+        "discount": 19,
+        "category": "Food - Canned Goods"
+    },
+    {
+        "name": "Utility Cargo Pants",
+        "price": 411,
+        "rating": 1.4,
+        "discount": 1,
+        "category": "Clothing - Pants"
+    },
+    {
+        "name": "Multi-Function Smartphone Holder",
+        "price": 315,
+        "rating": 4.0,
+        "discount": 14,
+        "category": "Electronics"
+    },
+    {
+        "name": "Multi-Function Smartphone Holder",
+        "price": 236,
+        "rating": 1.1,
+        "discount": 15,
+        "category": "Electronics"
+    },
+    {
+        "name": "Mini Projector for Smartphones",
+        "price": 390,
+        "rating": 1.4,
+        "discount": 32,
+        "category": "Electronics"
+    },
+    {
+        "name": "LED Under Cabinet Lighting",
+        "price": 336,
+        "rating": 3.0,
+        "discount": 36,
+        "category": "Home"
+    },
+    {
+        "name": "Car Vacuum",
+        "price": 484,
+        "rating": 4.4,
+        "discount": 35,
+        "category": "Automotive"
+    },
+    {
+        "name": "Peas (frozen)",
+        "price": 418,
+        "rating": 3.9,
+        "discount": 28,
+        "category": "Food - Frozen Foods"
+    },
+    {
+        "name": "Fall-Themed Table Runner",
+        "price": 81,
+        "rating": 3.0,
+        "discount": 39,
+        "category": "Home"
+    },
+    {
+        "name": "Raspberry Vanilla Greek Yogurt",
+        "price": 382,
+        "rating": 3.6,
+        "discount": 37,
+        "category": "Food - Dairy"
+    },
+    {
+        "name": "Skincare Set",
+        "price": 427,
+        "rating": 3.9,
+        "discount": 8,
+        "category": "Beauty"
+    },
+    {
+        "name": "Bicycle Repair Kit",
+        "price": 80,
+        "rating": 1.9,
+        "discount": 16,
+        "category": "Outdoor"
+    },
+    {
+        "name": "Beard Grooming Kit",
+        "price": 205,
+        "rating": 3.8,
+        "discount": 14,
+        "category": "Grooming"
+    },
+    {
+        "name": "Electric Butter Churn",
+        "price": 140,
+        "rating": 1.4,
+        "discount": 6,
+        "category": "Kitchen"
+    },
+    {
+        "name": "Electric Heating Pad",
+        "price": 241,
+        "rating": 3.3,
+        "discount": 0,
+        "category": "Health"
+    },
+    {
+        "name": "Wireless Gaming Headset",
+        "price": 392,
+        "rating": 3.5,
+        "discount": 40,
+        "category": "Gaming"
+    },
+    {
+        "name": "Bamboo Toothbrush Holder",
+        "price": 259,
+        "rating": 3.4,
+        "discount": 3,
+        "category": "Health"
+    },
+    {
+        "name": "Graphic Print Leggings",
+        "price": 160,
+        "rating": 2.1,
+        "discount": 27,
+        "category": "Clothing - Activewear"
+    },
+    {
+        "name": "Blueberry Chia Jam",
+        "price": 100,
+        "rating": 4.6,
+        "discount": 28,
+        "category": "Food - Spreads"
+    },
+    {
+        "name": "Halloween Decoration Set",
+        "price": 369,
+        "rating": 4.5,
+        "discount": 28,
+        "category": "Home"
+    },
+    {
+        "name": "Vegan chocolate chip cookies",
+        "price": 401,
+        "rating": 3.4,
+        "discount": 11,
+        "category": "Food - Bakery"
+    },
+    {
+        "name": "Non-Stick Grill Pan",
+        "price": 148,
+        "rating": 4.1,
+        "discount": 14,
+        "category": "Kitchen"
+    },
+    {
+        "name": "Sunglasses Case",
+        "price": 314,
+        "rating": 4.3,
+        "discount": 2,
+        "category": "Accessories"
+    },
+    {
+        "name": "Multi-Function Meat Tenderizer",
+        "price": 85,
+        "rating": 3.3,
+        "discount": 36,
+        "category": "Kitchen"
+    },
+    {
+        "name": "Ultra-Thin Laptop Sleeve",
+        "price": 86,
+        "rating": 2.9,
+        "discount": 22,
+        "category": "Accessories"
+    },
+    {
+        "name": "Portable Hammock Swing",
+        "price": 381,
+        "rating": null,
+        "discount": 6,
+        "category": "Outdoor"
+    },
+    {
+        "name": "Kettle Chip Variety Pack",
+        "price": 477,
+        "rating": 3.6,
+        "discount": 23,
+        "category": "Food - Snacks"
+    },
+    {
+        "name": "Zucchini Noodle Pasta",
+        "price": 54,
+        "rating": 1.3,
+        "discount": 12,
+        "category": "Food - Vegetables"
+    },
+    {
+        "name": "Creamy Avocado Dip",
+        "price": 110,
+        "rating": 1.6,
+        "discount": 24,
+        "category": "Food - Snacks"
+    },
+    {
+        "name": "Bodyweight Resistance Bands",
+        "price": 148,
+        "rating": 1.6,
+        "discount": 16,
+        "category": "Fitness"
+    },
+    {
+        "name": "Collapsible Camping Cup",
+        "price": 52,
+        "rating": 2.3,
+        "discount": 5,
+        "category": "Outdoor"
+    },
+    {
+        "name": "Smart Light Switch",
+        "price": 59,
+        "rating": 1.4,
+        "discount": 10,
+        "category": "Smart Home"
+    },
+    {
+        "name": "Luminous Night Light",
+        "price": 241,
+        "rating": 3.7,
+        "discount": 0,
+        "category": "Home"
+    },
+    {
+        "name": "Reusable Food Storage Bags",
+        "price": 162,
+        "rating": 2.1,
+        "discount": 29,
+        "category": "Kitchen"
+    },
+    {
+        "name": "Plant-Based Protein Bars",
+        "price": 499,
+        "rating": 2.3,
+        "discount": 19,
+        "category": "Health"
+    },
+    {
+        "name": "Wine Decanter",
+        "price": 201,
+        "rating": 2.7,
+        "discount": 36,
+        "category": "Home"
+    },
+    {
+        "name": "Frozen Acai Purée",
+        "price": 298,
+        "rating": 1.9,
+        "discount": 34,
+        "category": "Food - Frozen"
+    },
+    {
+        "name": "Sweet and Spicy Barbecue Sauce",
+        "price": 138,
+        "rating": 4.7,
+        "discount": 39,
+        "category": "Food - Condiments"
+    },
+    {
+        "name": "Spicy Tuna Sushi Kit",
+        "price": 361,
+        "rating": 2.4,
+        "discount": 25,
+        "category": "Food - Prepared Meals"
+    },
+    {
+        "name": "Sour Cream",
+        "price": 101,
+        "rating": 1.7,
+        "discount": 22,
+        "category": "Food - Dairy"
+    },
+    {
+        "name": "Maple Pecan Granola",
+        "price": 183,
+        "rating": 4.7,
+        "discount": 22,
+        "category": "Food - Breakfast"
+    },
+    {
+        "name": "Sliced Avocado",
+        "price": 254,
+        "rating": null,
+        "discount": 14,
+        "category": "Food - Produce"
+    },
+    {
+        "name": "Creamy Ranch Dressing",
+        "price": 208,
+        "rating": 1.4,
+        "discount": 32,
+        "category": "Food - Dressings"
+    },
+    {
+        "name": "Digital Stopwatch Timer",
+        "price": 179,
+        "rating": null,
+        "discount": 32,
+        "category": "Fitness"
+    },
+    {
+        "name": "Granola Bars",
+        "price": 449,
+        "rating": 3.5,
+        "discount": 21,
+        "category": "Food - Snacks"
+    },
+    {
+        "name": "Wall-Mounted Organizer",
+        "price": 445,
+        "rating": 3.7,
+        "discount": 32,
+        "category": "Home"
+    },
+    {
+        "name": "Carrot Sticks",
+        "price": 371,
+        "rating": 4.0,
+        "discount": 14,
+        "category": "Food - Produce"
+    },
+    {
+        "name": "Coconut Almond Granola",
+        "price": 438,
+        "rating": 1.4,
+        "discount": 14,
+        "category": "Food - Breakfast"
+    },
+    {
+        "name": "Smartphone Stand",
+        "price": 367,
+        "rating": 3.2,
+        "discount": 35,
+        "category": "Accessories"
+    },
+    {
+        "name": "Organic Coconut Oil",
+        "price": 384,
+        "rating": 3.4,
+        "discount": 18,
+        "category": "Food - Oils"
+    },
+    {
+        "name": "DIY Lip Balm Kit",
+        "price": 221,
+        "rating": 4.7,
+        "discount": 15,
+        "category": "Crafts"
+    },
+    {
+        "name": "Portable Leaf Blower",
+        "price": 157,
+        "rating": 3.2,
+        "discount": 36,
+        "category": "Outdoor"
+    },
+    {
+        "name": "Herbed Goat Cheese",
+        "price": 146,
+        "rating": 3.5,
+        "discount": 11,
+        "category": "Food - Cheese"
+    },
+    {
+        "name": "Yoga Mat Carrier",
+        "price": 115,
+        "rating": 4.9,
+        "discount": 33,
+        "category": "Fitness"
+    },
+    {
+        "name": "Luxe Velvet Blazer",
+        "price": 408,
+        "rating": 3.0,
+        "discount": 32,
+        "category": "Clothing - Outerwear"
+    },
+    {
+        "name": "Sriracha Sauce",
+        "price": 186,
+        "rating": 3.0,
+        "discount": 2,
+        "category": "Food - Condiments"
+    },
+    {
+        "name": "Banana Nut Oatmeal Cups",
+        "price": 356,
+        "rating": 2.7,
+        "discount": 7,
+        "category": "Food - Breakfast"
+    },
+    {
+        "name": "Sesame Oil",
+        "price": 270,
+        "rating": null,
+        "discount": 7,
+        "category": "Food - Oils & Vinegars"
+    },
+    {
+        "name": "Coconut Cream Pie Yogurt",
+        "price": 112,
+        "rating": 2.3,
+        "discount": 17,
+        "category": "Food - Dairy Alternatives"
+    },
+    {
+        "name": "Fitness Jump Box",
+        "price": 379,
+        "rating": 1.2,
+        "discount": 3,
+        "category": "Fitness"
+    },
+    {
+        "name": "Cereal Dispenser with Portion Control",
+        "price": 320,
+        "rating": 3.5,
+        "discount": 35,
+        "category": "Kitchen"
+    },
+    {
+        "name": "Shatterproof Wine Glasses",
+        "price": 370,
+        "rating": 3.6,
+        "discount": 35,
+        "category": "Outdoor"
+    },
+    {
+        "name": "Organic Tomato Ketchup",
+        "price": 55,
+        "rating": 1.9,
+        "discount": 19,
+        "category": "Food - Condiments"
+    },
+    {
+        "name": "Voice-Controlled Speaker",
+        "price": 449,
+        "rating": 1.4,
+        "discount": 31,
+        "category": "Audio"
+    },
+    {
+        "name": "Chia Seed Pudding",
+        "price": 163,
+        "rating": 3.0,
+        "discount": 38,
+        "category": "Food - Snacks"
+    },
+    {
+        "name": "Luminous Night Light",
+        "price": 158,
+        "rating": 3.2,
+        "discount": 22,
+        "category": "Home"
+    },
+    {
+        "name": "Organic Cereal Bars",
+        "price": 180,
+        "rating": 2.9,
+        "discount": 16,
+        "category": "Food - Snacks"
+    },
+    {
+        "name": "Sous Vide Cooker",
+        "price": 286,
+        "rating": 2.4,
+        "discount": 10,
+        "category": "Kitchen"
+    },
+    {
+        "name": "Portable Water Filter",
+        "price": 50,
+        "rating": 3.9,
+        "discount": 7,
+        "category": "Outdoor"
+    },
+    {
+        "name": "Fishing Tackle Box",
+        "price": 391,
+        "rating": 2.8,
+        "discount": 27,
+        "category": "Outdoor"
+    },
+    {
+        "name": "Wooden Kitchen Utensil Set",
+        "price": 389,
+        "rating": 2.8,
+        "discount": 0,
+        "category": "Kitchen"
+    },
+    {
+        "name": "Ski Goggles",
+        "price": 244,
+        "rating": 4.6,
+        "discount": 4,
+        "category": "Sports"
+    },
+    {
+        "name": "Orange Ginger Vinaigrette",
+        "price": 121,
+        "rating": 1.5,
+        "discount": 10,
+        "category": "Food - Condiments"
+    },
+    {
+        "name": "Samsung Galaxy Smartwatch",
+        "price": 241,
+        "rating": 4.8,
+        "discount": 24,
+        "category": "Wearable Tech"
+    },
+    {
+        "name": "Athletic Compression Tights",
+        "price": 269,
+        "rating": 4.2,
+        "discount": 32,
+        "category": "Clothing - Activewear"
+    },
+    {
+        "name": "Brussels Sprouts",
+        "price": 410,
+        "rating": 1.6,
+        "discount": 21,
+        "category": "Food - Produce"
+    },
+    {
+        "name": "Paint By Numbers Kit",
+        "price": 70,
+        "rating": 2.9,
+        "discount": 3,
+        "category": "Art Supplies"
+    },
+    {
+        "name": "Coffee Capsule Dispenser",
+        "price": 409,
+        "rating": 4.7,
+        "discount": 21,
+        "category": "Kitchen"
+    },
+    {
+        "name": "Hibiscus Tea Bags",
+        "price": 104,
+        "rating": null,
+        "discount": 31,
+        "category": "Food - Beverages"
+    },
+    {
+        "name": "Snap-On Tupperware Set",
+        "price": 497,
+        "rating": 3.1,
+        "discount": 3,
+        "category": "Kitchen"
+    },
+    {
+        "name": "Coconut Milk",
+        "price": 481,
+        "rating": 1.6,
+        "discount": 33,
+        "category": "Food - Canned Goods"
+    },
+    {
+        "name": "Crispy Rice Treats",
+        "price": 238,
+        "rating": 2.4,
+        "discount": 9,
+        "category": "Food - Snacks"
+    },
+    {
+        "name": "Lentil Soup",
+        "price": 461,
+        "rating": 2.6,
+        "discount": 22,
+        "category": "Food - Canned Goods"
+    },
+    {
+        "name": "Winter Insulated Jacket",
+        "price": 285,
+        "rating": 2.2,
+        "discount": 2,
+        "category": "Clothing"
+    },
+    {
+        "name": "Frozen Broccoli",
+        "price": 98,
+        "rating": 4.2,
+        "discount": 37,
+        "category": "Food - Frozen"
+    },
+    {
+        "name": "Coconut Milk Ice Cream",
+        "price": 223,
+        "rating": 4.1,
+        "discount": 24,
+        "category": "Food - Frozen Desserts"
+    },
+    {
+        "name": "Sparkling Blood Orange Soda",
+        "price": 287,
+        "rating": 4.6,
+        "discount": 13,
+        "category": "Food - Beverages"
+    },
+    {
+        "name": "Zesty Garlic Hummus",
+        "price": 90,
+        "rating": 1.8,
+        "discount": 29,
+        "category": "Food - Snacks"
+    },
+    {
+        "name": "Chickpea Salad",
+        "price": 51,
+        "rating": 1.7,
+        "discount": 2,
+        "category": "Food - Prepared Foods"
+    },
+    {
+        "name": "Cacao Powder",
+        "price": 407,
+        "rating": 3.4,
+        "discount": 17,
+        "category": "Food - Baking"
+    },
+    {
+        "name": "Noise Cancelling Ear Muffs",
+        "price": 448,
+        "rating": 3.1,
+        "discount": 3,
+        "category": "Safety"
+    },
+    {
+        "name": "Indoor Plants",
+        "price": 126,
+        "rating": 3.3,
+        "discount": 21,
+        "category": "Garden"
+    },
+    {
+        "name": "Decorative LED Neon Sign",
+        "price": 253,
+        "rating": 3.2,
+        "discount": 4,
+        "category": "Home"
+    },
+    {
+        "name": "Magnetic Whiteboard",
+        "price": 66,
+        "rating": 4.6,
+        "discount": 37,
+        "category": "Office"
+    },
+    {
+        "name": "Chocolate Fudge Ice Cream",
+        "price": 188,
+        "rating": 1.0,
+        "discount": 6,
+        "category": "Food - Frozen Desserts"
+    },
+    {
+        "name": "Handmade Soap Making Kit",
+        "price": 50,
+        "rating": 4.5,
+        "discount": 31,
+        "category": "Crafts"
+    },
+    {
+        "name": "Indian Curry Sauce",
+        "price": 82,
+        "rating": 4.8,
+        "discount": 19,
+        "category": "Food - Condiments"
+    },
+    {
+        "name": "Warm Wool Sweater",
+        "price": 357,
+        "rating": 1.4,
+        "discount": 14,
+        "category": "Clothing - Tops"
+    },
+    {
+        "name": "Induction Cooktop",
+        "price": 377,
+        "rating": 2.2,
+        "discount": 9,
+        "category": "Kitchen"
+    },
+    {
+        "name": "Multi-Function Smartphone Holder",
+        "price": 344,
+        "rating": 3.6,
+        "discount": 2,
+        "category": "Electronics"
+    },
+    {
+        "name": "Frozen Salmon Filets",
+        "price": 354,
+        "rating": 3.2,
+        "discount": 30,
+        "category": "Food - Seafood"
+    },
+    {
+        "name": "Classic Pumps",
+        "price": 331,
+        "rating": 1.2,
+        "discount": 19,
+        "category": "Clothing - Footwear"
+    },
+    {
+        "name": "Camera Lens Cleaning Kit",
+        "price": 368,
+        "rating": 2.8,
+        "discount": 39,
+        "category": "Photography"
+    },
+    {
+        "name": "Frozen Cauliflower Rice",
+        "price": 495,
+        "rating": 1.1,
+        "discount": 0,
+        "category": "Food - Frozen Foods"
+    },
+    {
+        "name": "Honey Wheat Pretzels",
+        "price": 273,
+        "rating": 1.8,
+        "discount": 14,
+        "category": "Food - Snacks"
+    },
+    {
+        "name": "Non-Toxic Crayons for Kids",
+        "price": 106,
+        "rating": 2.4,
+        "discount": 14,
+        "category": "Toys"
+    },
+    {
+        "name": "Dishwasher Safe Cutting Board",
+        "price": 326,
+        "rating": 2.7,
+        "discount": 30,
+        "category": "Kitchen"
+    },
+    {
+        "name": "Self-Stirring Mug",
+        "price": 374,
+        "rating": 3.5,
+        "discount": 31,
+        "category": "Kitchen"
+    },
+    {
+        "name": "Graphic Print Leggings",
+        "price": 401,
+        "rating": null,
+        "discount": 28,
+        "category": "Clothing - Activewear"
+    },
+    {
+        "name": "Maple Pecan Pancake Mix",
+        "price": 122,
+        "rating": 3.3,
+        "discount": 10,
+        "category": "Food - Breakfast"
+    },
+    {
+        "name": "Microwave Popcorn Maker",
+        "price": 436,
+        "rating": 1.7,
+        "discount": 18,
+        "category": "Kitchen"
+    },
+    {
+        "name": "Smartphone Photography Ring Light",
+        "price": 473,
+        "rating": 4.9,
+        "discount": 21,
+        "category": "Photography"
+    },
+    {
+        "name": "Decorative Throw Pillows",
+        "price": 200,
+        "rating": 2.2,
+        "discount": 22,
+        "category": "Home"
+    },
+    {
+        "name": "Chocolate Protein Powder",
+        "price": 372,
+        "rating": 4.8,
+        "discount": 39,
+        "category": "Food - Supplements"
+    },
+    {
+        "name": "Beef Taco Skillet",
+        "price": 289,
+        "rating": 3.6,
+        "discount": 24,
+        "category": "Food - Meal Kits"
+    },
+    {
+        "name": "Dark Chocolate Covered Pretzels",
+        "price": 194,
+        "rating": 1.6,
+        "discount": 34,
+        "category": "Food - Snacks"
+    },
+    {
+        "name": "Solar String Lights",
+        "price": 214,
+        "rating": null,
+        "discount": 16,
+        "category": "Outdoor"
+    },
+    {
+        "name": "Canvas Wall Art",
+        "price": 78,
+        "rating": 1.4,
+        "discount": 20,
+        "category": "Home"
+    },
+    {
+        "name": "Collapsible Folding Chair",
+        "price": 176,
+        "rating": 3.0,
+        "discount": 18,
+        "category": "Outdoor"
+    },
+    {
+        "name": "Spicy Italian Sausage",
+        "price": 449,
+        "rating": 3.0,
+        "discount": 9,
+        "category": "Food - Meat & Seafood"
+    },
+    {
+        "name": "Chocolate Chip Muffins",
+        "price": 334,
+        "rating": 1.2,
+        "discount": 28,
+        "category": "Food - Bakery"
+    },
+    {
+        "name": "Electric Ice Cream Maker",
+        "price": 58,
+        "rating": 2.1,
+        "discount": 32,
+        "category": "Kitchen"
+    },
+    {
+        "name": "Coffee Making Kit",
+        "price": 413,
+        "rating": 2.3,
+        "discount": 15,
+        "category": "Kitchen"
+    },
+    {
+        "name": "Legging Pants",
+        "price": 356,
+        "rating": 3.6,
+        "discount": 37,
+        "category": "Clothing - Activewear"
+    },
+    {
+        "name": "Children's Backpack",
+        "price": 294,
+        "rating": 1.8,
+        "discount": 29,
+        "category": "Accessories"
+    },
+    {
+        "name": "Vegan Cheese",
+        "price": 80,
+        "rating": 2.6,
+        "discount": 2,
+        "category": "Food - Dairy Alternatives"
+    },
+    {
+        "name": "Kombucha Drink",
+        "price": 339,
+        "rating": 4.8,
+        "discount": 26,
+        "category": "Food - Beverages"
+    },
+    {
+        "name": "Foam Muscle Roller",
+        "price": 437,
+        "rating": 4.4,
+        "discount": 29,
+        "category": "Fitness"
+    },
+    {
+        "name": "Sports Water Bottle with Infuser",
+        "price": 450,
+        "rating": 4.6,
+        "discount": 30,
+        "category": "Fitness"
+    },
+    {
+        "name": "Garden Vegetable Chips",
+        "price": 54,
+        "rating": 2.6,
+        "discount": 36,
+        "category": "Food - Snacks"
+    },
+    {
+        "name": "Orange Ginger Vinaigrette",
+        "price": 433,
+        "rating": 3.9,
+        "discount": 32,
+        "category": "Food - Condiments"
+    },
+    {
+        "name": "Kids' Craft Supplies Set",
+        "price": 147,
+        "rating": 3.0,
+        "discount": 30,
+        "category": "Toys"
+    },
+    {
+        "name": "Slingback Sandals",
+        "price": 405,
+        "rating": 3.8,
+        "discount": 9,
+        "category": "Clothing - Footwear"
+    },
+    {
+        "name": "Sweet Cherry Tomatoes",
+        "price": 311,
+        "rating": 3.8,
+        "discount": 34,
+        "category": "Food - Produce"
+    },
+    {
+        "name": "Collapsible Water Bottle",
+        "price": 188,
+        "rating": 3.4,
+        "discount": 21,
+        "category": "Fitness"
+    },
+    {
+        "name": "Plant Watering Spikes",
+        "price": 287,
+        "rating": null,
+        "discount": 19,
+        "category": "Garden"
+    },
+    {
+        "name": "Comfy Slippers",
+        "price": 306,
+        "rating": 3.3,
+        "discount": 35,
+        "category": "Footwear"
+    },
+    {
+        "name": "Dual Function Electric Skillet",
+        "price": 57,
+        "rating": 4.8,
+        "discount": 13,
+        "category": "Kitchen"
+    },
+    {
+        "name": "Black Bean Spaghetti",
+        "price": 366,
+        "rating": null,
+        "discount": 8,
+        "category": "Food - Pasta"
+    },
+    {
+        "name": "Magnet Travel Fridge Magnets",
+        "price": 469,
+        "rating": 4.9,
+        "discount": 0,
+        "category": "Accessories"
+    },
+    {
+        "name": "Electric Bike",
+        "price": 175,
+        "rating": 4.9,
+        "discount": 22,
+        "category": "Bicycles"
+    },
+    {
+        "name": "Deluxe First Aid Kit",
+        "price": 118,
+        "rating": 2.6,
+        "discount": 23,
+        "category": "Health"
+    },
+    {
+        "name": "Foot Massager Machine",
+        "price": 466,
+        "rating": 4.3,
+        "discount": 35,
+        "category": "Health"
+    },
+    {
+        "name": "Fitness Tracker Band",
+        "price": 152,
+        "rating": 3.5,
+        "discount": 34,
+        "category": "Fitness"
+    },
+    {
+        "name": "Portable Air Conditioner",
+        "price": 452,
+        "rating": 3.1,
+        "discount": 27,
+        "category": "Home Appliances"
+    },
+    {
+        "name": "Baked Potato Chips",
+        "price": 227,
+        "rating": 2.4,
+        "discount": 34,
+        "category": "Food - Snacks"
+    },
+    {
+        "name": "Chicken Parmesan Dinner Kit",
+        "price": 384,
+        "rating": 1.8,
+        "discount": 24,
+        "category": "Food - Frozen Meals"
+    },
+    {
+        "name": "Electric Heat Pad",
+        "price": 473,
+        "rating": 3.1,
+        "discount": 38,
+        "category": "Health"
+    },
+    {
+        "name": "Silicone Cooking Utensils Set",
+        "price": 198,
+        "rating": 4.7,
+        "discount": 9,
+        "category": "Kitchen"
+    },
+    {
+        "name": "Cranberry Lime Sparkling Water",
+        "price": 265,
+        "rating": 1.1,
+        "discount": 30,
+        "category": "Food - Beverages"
+    },
+    {
+        "name": "Chocolate Mint Protein Shake",
+        "price": 387,
+        "rating": 3.8,
+        "discount": 32,
+        "category": "Food - Beverages"
+    },
+    {
+        "name": "Lentil Pasta",
+        "price": 112,
+        "rating": 2.9,
+        "discount": 2,
+        "category": "Food - Pasta"
+    },
+    {
+        "name": "Electric Stool Heater",
+        "price": 163,
+        "rating": 3.5,
+        "discount": 8,
+        "category": "Home"
+    },
+    {
+        "name": "Whole Grain Mustard",
+        "price": 191,
+        "rating": 3.4,
+        "discount": 2,
+        "category": "Food - Condiments"
+    },
+    {
+        "name": "Smoky BBQ Jackfruit",
+        "price": 53,
+        "rating": 2.3,
+        "discount": 10,
+        "category": "Food - Grocery"
+    },
+    {
+        "name": "Honey Garlic Sauce",
+        "price": 360,
+        "rating": 2.4,
+        "discount": 3,
+        "category": "Food - Sauces"
+    },
+    {
+        "name": "Mediterranean Chickpea Salad",
+        "price": 485,
+        "rating": 2.9,
+        "discount": 5,
+        "category": "Food - Salads"
+    },
+    {
+        "name": "Scented Soy Candles",
+        "price": 485,
+        "rating": 4.2,
+        "discount": 27,
+        "category": "Home"
+    },
+    {
+        "name": "Cabbage",
+        "price": 189,
+        "rating": null,
+        "discount": 20,
+        "category": "Food - Produce"
+    },
+    {
+        "name": "Interactive Robot Toy",
+        "price": 279,
+        "rating": 3.9,
+        "discount": 4,
+        "category": "Toys"
+    },
+    {
+        "name": "Chili Beans in Sauce",
+        "price": 171,
+        "rating": 2.3,
+        "discount": 28,
+        "category": "Food - Canned Goods"
+    },
+    {
+        "name": "Over-The-Door Shoe Organizer",
+        "price": 387,
+        "rating": 2.6,
+        "discount": 21,
+        "category": "Home"
+    },
+    {
+        "name": "Frozen Acai Purée",
+        "price": 166,
+        "rating": 3.8,
+        "discount": 2,
+        "category": "Food - Frozen"
+    },
+    {
+        "name": "Lemon Basil Pasta Sauce",
+        "price": 94,
+        "rating": 4.0,
+        "discount": 35,
+        "category": "Food - Sauces"
+    },
+    {
+        "name": "Ready-to-Eat Chili",
+        "price": 452,
+        "rating": null,
+        "discount": 12,
+        "category": "Food - Soups"
+    },
+    {
+        "name": "Vegetable Stir-Fry Kit",
+        "price": 485,
+        "rating": 4.3,
+        "discount": 10,
+        "category": "Food - Produce"
+    },
+    {
+        "name": "Frozen Broccoli",
+        "price": 453,
+        "rating": 3.3,
+        "discount": 11,
+        "category": "Food - Frozen"
+    },
+    {
+        "name": "Organic Brown Rice Cakes",
+        "price": 357,
+        "rating": 4.2,
+        "discount": 0,
+        "category": "Food - Snacks"
+    },
+    {
+        "name": "Black Bean Spaghetti",
+        "price": 376,
+        "rating": 3.5,
+        "discount": 11,
+        "category": "Food - Pasta"
+    },
+    {
+        "name": "Balsamic Glazed Brussels Sprouts",
+        "price": 330,
+        "rating": 2.1,
+        "discount": 39,
+        "category": "Food - Vegetables"
+    },
+    {
+        "name": "Tailgating Set",
+        "price": 195,
+        "rating": 4.0,
+        "discount": 40,
+        "category": "Outdoor"
+    },
+    {
+        "name": "Kids' Gardening Tools Set",
+        "price": 58,
+        "rating": null,
+        "discount": 8,
+        "category": "Toys"
+    },
+    {
+        "name": "Non-Toxic Crayons for Kids",
+        "price": 431,
+        "rating": 1.8,
+        "discount": 8,
+        "category": "Toys"
+    },
+    {
+        "name": "Handheld Garment Steamer",
+        "price": 325,
+        "rating": 1.8,
+        "discount": 28,
+        "category": "Home"
+    },
+    {
+        "name": "Creative Puzzle Game",
+        "price": 211,
+        "rating": null,
+        "discount": 3,
+        "category": "Toys"
+    },
+    {
+        "name": "Handmade Leather Wallet",
+        "price": 237,
+        "rating": 3.7,
+        "discount": 34,
+        "category": "Accessories"
+    },
+    {
+        "name": "Eco-Friendly Notepad",
+        "price": 456,
+        "rating": 2.4,
+        "discount": 16,
+        "category": "Office"
+    },
+    {
+        "name": "Pet Safety Belt for Car",
+        "price": 191,
+        "rating": 5.0,
+        "discount": 18,
+        "category": "Pets"
+    },
+    {
+        "name": "Art Supplies Organizer",
+        "price": 315,
+        "rating": 1.3,
+        "discount": 37,
+        "category": "Art Supplies"
+    },
+    {
+        "name": "Peanut Butter Filled Pretzels",
+        "price": 492,
+        "rating": 3.3,
+        "discount": 3,
+        "category": "Food - Snacks"
+    },
+    {
+        "name": "Honey Mustard Chicken Breasts",
+        "price": 50,
+        "rating": 2.6,
+        "discount": 38,
+        "category": "Food - Meat"
+    },
+    {
+        "name": "Stainless Steel Travel Mug",
+        "price": 258,
+        "rating": null,
+        "discount": 23,
+        "category": "Kitchen"
+    },
+    {
+        "name": "Herb Garlic Butter",
+        "price": 413,
+        "rating": 3.2,
+        "discount": 13,
+        "category": "Food - Condiments"
+    },
+    {
+        "name": "Ginger Turmeric Tea",
+        "price": 161,
+        "rating": 4.0,
+        "discount": 29,
+        "category": "Food - Beverages"
+    },
+    {
+        "name": "Cocktail Shaker Set",
+        "price": 234,
+        "rating": 1.0,
+        "discount": 9,
+        "category": "Kitchen"
+    },
+    {
+        "name": "Travel Mug",
+        "price": 456,
+        "rating": 2.5,
+        "discount": 9,
+        "category": "Kitchen"
+    },
+    {
+        "name": "Adjustable Pet Grooming Table",
+        "price": 143,
+        "rating": 1.7,
+        "discount": 22,
+        "category": "Pets"
+    },
+    {
+        "name": "Sustainable Wooden Toys",
+        "price": 274,
+        "rating": 3.7,
+        "discount": 35,
+        "category": "Toys"
+    },
+    {
+        "name": "Chocolate Almond Milk",
+        "price": 79,
+        "rating": 4.3,
+        "discount": 4,
+        "category": "Food - Dairy Alternatives"
+    },
+    {
+        "name": "Vegetable Fried Rice",
+        "price": 173,
+        "rating": 3.5,
+        "discount": 39,
+        "category": "Food - Frozen Foods"
+    },
+    {
+        "name": "Adjustable Laptop Desk",
+        "price": 68,
+        "rating": 2.6,
+        "discount": 29,
+        "category": "Office"
+    },
+    {
+        "name": "Wireless Printer",
+        "price": 460,
+        "rating": 4.7,
+        "discount": 40,
+        "category": "Office"
+    },
+    {
+        "name": "Camping Tent",
+        "price": 391,
+        "rating": 3.7,
+        "discount": 10,
+        "category": "Outdoor"
+    },
+    {
+        "name": "Coconut Cream",
+        "price": 110,
+        "rating": 1.4,
+        "discount": 29,
+        "category": "Food - Baking & Cooking"
+    },
+    {
+        "name": "Ice Cream Scoop",
+        "price": 320,
+        "rating": 3.2,
+        "discount": 6,
+        "category": "Kitchen"
+    },
+    {
+        "name": "Multi-Port USB Hub",
+        "price": 244,
+        "rating": 4.4,
+        "discount": 19,
+        "category": "Electronics"
+    },
+    {
+        "name": "Wireless Induction Charger",
+        "price": 247,
+        "rating": 3.7,
+        "discount": 15,
+        "category": "Electronics"
+    },
+    {
+        "name": "Fruit Infuser Water Bottle",
+        "price": 302,
+        "rating": 4.2,
+        "discount": 23,
+        "category": "Fitness"
+    },
+    {
+        "name": "Coconut Flakes",
+        "price": 270,
+        "rating": 4.0,
+        "discount": 5,
+        "category": "Food - Baking"
+    },
+    {
+        "name": "Insulated Lunch Bag",
+        "price": 127,
+        "rating": 3.2,
+        "discount": 6,
+        "category": "Kitchen"
+    },
+    {
+        "name": "Sunglasses",
+        "price": 239,
+        "rating": 4.3,
+        "discount": 11,
+        "category": "Accessories"
+    },
+    {
+        "name": "Foldable Picnic Table",
+        "price": 73,
+        "rating": 3.4,
+        "discount": 24,
+        "category": "Outdoor"
+    },
+    {
+        "name": "Desk Lamp with USB Port",
+        "price": 487,
+        "rating": 1.2,
+        "discount": 20,
+        "category": "Office"
+    },
+    {
+        "name": "Travel Shoe Bags Set",
+        "price": 297,
+        "rating": 2.3,
+        "discount": 11,
+        "category": "Travel"
+    },
+    {
+        "name": "Multi-Port USB Hub",
+        "price": 176,
+        "rating": 2.1,
+        "discount": 24,
+        "category": "Electronics"
+    },
+    {
+        "name": "Telescope",
+        "price": 170,
+        "rating": 4.7,
+        "discount": 19,
+        "category": "Outdoor"
+    },
+    {
+        "name": "Wireless Induction Charger",
+        "price": 349,
+        "rating": 4.1,
+        "discount": 1,
+        "category": "Electronics"
+    },
+    {
+        "name": "Teriyaki Chicken Bowl",
+        "price": 480,
+        "rating": 2.2,
+        "discount": 15,
+        "category": "Food - Prepared Meals"
+    },
+    {
+        "name": "Baby Safety Corner Guards",
+        "price": 127,
+        "rating": 2.9,
+        "discount": 10,
+        "category": "Baby"
+    },
+    {
+        "name": "Stainless Steel Cutlery Set",
+        "price": 417,
+        "rating": 1.8,
+        "discount": 36,
+        "category": "Kitchen"
+    },
+    {
+        "name": "Weighted Blanket",
+        "price": 473,
+        "rating": 1.3,
+        "discount": 10,
+        "category": "Health"
+    },
+    {
+        "name": "Homestyle Beef Stew",
+        "price": 347,
+        "rating": 3.8,
+        "discount": 30,
+        "category": "Food - Canned Soups"
+    },
+    {
+        "name": "Golf Polo Shirt",
+        "price": 408,
+        "rating": 4.1,
+        "discount": 33,
+        "category": "Clothing - Tops"
+    },
+    {
+        "name": "Children's Backpack",
+        "price": 331,
+        "rating": null,
+        "discount": 8,
+        "category": "Accessories"
+    },
+    {
+        "name": "Fitbit Activity Tracker",
+        "price": 234,
+        "rating": 4.6,
+        "discount": 21,
+        "category": "Fitness"
+    },
+    {
+        "name": "Energy Bites",
+        "price": 296,
+        "rating": 3.1,
+        "discount": 33,
+        "category": "Food - Snacks"
+    },
+    {
+        "name": "Vegetable Sushi Rolls",
+        "price": 185,
+        "rating": 1.6,
+        "discount": 29,
+        "category": "Food - Prepared Meals"
+    },
+    {
+        "name": "Frozen Berry Blend",
+        "price": 195,
+        "rating": 3.6,
+        "discount": 26,
+        "category": "Food - Frozen Foods"
+    },
+    {
+        "name": "Children's Musical Instrument Set",
+        "price": 332,
+        "rating": 1.8,
+        "discount": 21,
+        "category": "Toys"
+    },
+    {
+        "name": "Samsung Galaxy Smartwatch",
+        "price": 210,
+        "rating": 3.0,
+        "discount": 29,
+        "category": "Wearable Tech"
+    },
+    {
+        "name": "Fitness Tracker with Heart Rate Monitor",
+        "price": 247,
+        "rating": 3.6,
+        "discount": 38,
+        "category": "Fitness"
+    },
+    {
+        "name": "Creamy Garlic Dressing",
+        "price": 205,
+        "rating": 2.5,
+        "discount": 27,
+        "category": "Food - Condiments"
+    },
+    {
+        "name": "Bicycle Lock",
+        "price": 270,
+        "rating": 1.8,
+        "discount": 23,
+        "category": "Bicycles"
+    },
+    {
+        "name": "Compressed Towel Tablets",
+        "price": 113,
+        "rating": 4.8,
+        "discount": 10,
+        "category": "Travel"
+    },
+    {
+        "name": "Mango Chilli Sauce",
+        "price": 421,
+        "rating": 4.0,
+        "discount": 34,
+        "category": "Food - Condiments"
+    },
+    {
+        "name": "Oven Mitts",
+        "price": 132,
+        "rating": null,
+        "discount": 36,
+        "category": "Kitchen"
+    },
+    {
+        "name": "Wireless HDMI Receiver",
+        "price": 427,
+        "rating": 4.3,
+        "discount": 21,
+        "category": "Electronics"
+    },
+    {
+        "name": "Wireless Charger Stand",
+        "price": 197,
+        "rating": 4.2,
+        "discount": 40,
+        "category": "Electronics"
+    },
+    {
+        "name": "Pumpkin Spice Muffins",
+        "price": 117,
+        "rating": null,
+        "discount": 1,
+        "category": "Food - Bakery"
+    },
+    {
+        "name": "Coconut Cream Pie Yogurt",
+        "price": 294,
+        "rating": 1.1,
+        "discount": 40,
+        "category": "Food - Dairy Alternatives"
+    },
+    {
+        "name": "Pasta Sauce Mix",
+        "price": 353,
+        "rating": 4.6,
+        "discount": 25,
+        "category": "Food - Sauces"
+    }
+]
