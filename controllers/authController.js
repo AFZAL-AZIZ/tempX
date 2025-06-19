@@ -1,5 +1,6 @@
 const User = require("./../models/userModel");
 const jwt = require("jsonwebtoken");
+const { promisify } = require("util");
 
 const JWT_SECRET = "my-ultra-long-and-ultra-secure-finalboss-secret";
 const JWT_EXPIRES_IN = "90d";
@@ -35,7 +36,7 @@ exports.login = (req, res) => {
             status: "failed",
             message: "Please provide email and password!",
         });
-        return; 
+        return;
     }
 
     User.findOne({ email })
@@ -60,4 +61,43 @@ exports.login = (req, res) => {
                 });
             });
         });
+};
+
+exports.protect = async (req, res, next) => {
+    let token;
+
+    if (
+        req.headers.authorization &&
+        req.headers.authorization.startsWith("Bearer")
+    ) {
+        token = req.headers.authorization.split(" ")[1];
+    }
+
+    if (!token) {
+        return res.status(401).json({
+            status: "failed",
+            message: "You are not logged in!",
+        });
+    }
+
+    try {
+        const decoded = await promisify(jwt.verify)(token, JWT_SECRET);
+
+        const currentUser = await User.findById(decoded.id);
+        if (!currentUser) {
+            return res.status(401).json({
+                status: "failed",
+                message: "The user belonging to this token no longer exist.",
+            });
+        }
+
+        console.log('Success');
+        req.user = currentUser;
+        next();
+    } catch (error) {
+        return res.status(400).json({
+            status: "failed",
+            message: "Invalid token or invalid id!",
+        });
+    }
 };
